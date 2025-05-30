@@ -1,0 +1,3575 @@
+{
+  "data": [
+    {
+      "ObjectIdentifier": "c818e744-578e-4ce9-b9cb-58e590afecff",
+      "Name": "USERS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=USERS,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "c818e744-578e-4ce9-b9cb-58e590afecff",
+        "name": "USERS@JJK.LOCAL",
+        "description": "Default container for upgraded user accounts",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-500",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-501",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1000",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1001",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-502",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-515",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-516",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-518",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-519",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-517",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-512",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-513",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-514",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-520",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-553",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-571",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-572",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-521",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-498",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-522",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-525",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-526",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-527",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1103",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1104",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1105",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1106",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1110",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1111",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1112",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1113",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1114",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1115",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1116",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1117",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1118",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1119",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1120",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1121",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1122",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1123",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1124",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1125",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1126",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1134",
+          "ObjectType": "User"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "c5caf2a4-e0be-4395-9b1a-68b5ec28c508",
+      "Name": "COMPUTERS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=COMPUTERS,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "c5caf2a4-e0be-4395-9b1a-68b5ec28c508",
+        "name": "COMPUTERS@JJK.LOCAL",
+        "description": "Default container for upgraded computer accounts",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1107",
+          "ObjectType": "Computer"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1108",
+          "ObjectType": "Computer"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1129",
+          "ObjectType": "Computer"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1130",
+          "ObjectType": "Computer"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1131",
+          "ObjectType": "Computer"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1132",
+          "ObjectType": "Computer"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1133",
+          "ObjectType": "Computer"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "275367d0-cb91-417b-9048-4fcba9ac02f2",
+      "Name": "SYSTEM@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "275367d0-cb91-417b-9048-4fcba9ac02f2",
+        "name": "SYSTEM@JJK.LOCAL",
+        "description": "Builtin system settings",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "31814a64-8101-439e-91ee-2671d077acca",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "a159c7f8-77ae-4513-884b-ddcac825eef8",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "294778af-4f32-45b0-b6b1-4feb811e6a75",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "ba78da6a-0927-4666-96ee-74eb743d009e",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "4eaa344f-ed21-4fff-b745-90f6e14ac533",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "0dc28993-5f23-463f-8614-25973dcf05a2",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "1bcdfea3-2fcb-43c2-8cf9-2c21bb12560a",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "acd22126-09c1-46f0-a6ad-5158a58fc0f3",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "2c549251-d080-47c0-aee5-dba6425f53b1",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "9e002d7b-b14f-4e5d-b845-f70dcf980e4b",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "6807d7eb-a2f5-4790-a505-e6ca7d302e90",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "ede3df1b-10e9-4c7f-b3a5-b46febe54252",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "41880235-7ffb-48ba-b9be-a90cfc473b85",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "42514d0a-45e5-4515-a9f1-d5b8a0efa3ff",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "8acbbad0-6c45-4316-ae16-2fa8221efc51",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "cccd0b5d-e9c9-4b08-a41d-b5829278147c",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "d3bf134e-0653-4f6a-8b3b-62ea90eb405f",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "960c9437-0bae-4c98-b9a3-82abc73eb52e",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "b4a3b394-7cca-4f44-9fd7-bc0e4a473918",
+      "Name": "LOSTANDFOUND@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=LOSTANDFOUND,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "b4a3b394-7cca-4f44-9fd7-bc0e4a473918",
+        "name": "LOSTANDFOUND@JJK.LOCAL",
+        "description": "Default container for orphaned objects",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "e8fbb62c-64d3-4a3e-8cea-fbf08df735b5",
+      "Name": "INFRASTRUCTURE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=INFRASTRUCTURE,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e8fbb62c-64d3-4a3e-8cea-fbf08df735b5",
+        "name": "INFRASTRUCTURE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "29f9fef1-dd86-4dd1-a131-e7d1ab1d5ff9",
+      "Name": "FOREIGNSECURITYPRINCIPALS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=FOREIGNSECURITYPRINCIPALS,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "29f9fef1-dd86-4dd1-a131-e7d1ab1d5ff9",
+        "name": "FOREIGNSECURITYPRINCIPALS@JJK.LOCAL",
+        "description": "Default container for security identifiers (SIDs) associated with objects from external, trusted domains",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "S-1-5-4",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-11",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-9",
+          "ObjectType": "Group"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-17",
+          "ObjectType": "Group"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "d9398d3f-e252-48f3-81d6-f2590a96fb48",
+      "Name": "PROGRAM DATA@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=PROGRAM DATA,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "d9398d3f-e252-48f3-81d6-f2590a96fb48",
+        "name": "PROGRAM DATA@JJK.LOCAL",
+        "description": "Default location for storage of application data.",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "5a18ae4e-8a4c-4999-9ebd-6487f000490a",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "5a18ae4e-8a4c-4999-9ebd-6487f000490a",
+      "Name": "MICROSOFT@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=MICROSOFT,CN=PROGRAM DATA,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "5a18ae4e-8a4c-4999-9ebd-6487f000490a",
+        "name": "MICROSOFT@JJK.LOCAL",
+        "description": "Default location for storage of Microsoft application data.",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "ad1154be-3972-4817-bb9b-c64ee5b92084",
+      "Name": "MANAGED SERVICE ACCOUNTS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=MANAGED SERVICE ACCOUNTS,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "ad1154be-3972-4817-bb9b-c64ee5b92084",
+        "name": "MANAGED SERVICE ACCOUNTS@JJK.LOCAL",
+        "description": "Default container for managed service accounts",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1109",
+          "ObjectType": "Computer"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "31814a64-8101-439e-91ee-2671d077acca",
+      "Name": "WINSOCKSERVICES@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=WINSOCKSERVICES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "31814a64-8101-439e-91ee-2671d077acca",
+        "name": "WINSOCKSERVICES@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "a159c7f8-77ae-4513-884b-ddcac825eef8",
+      "Name": "RPCSERVICES@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=RPCSERVICES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "a159c7f8-77ae-4513-884b-ddcac825eef8",
+        "name": "RPCSERVICES@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "294778af-4f32-45b0-b6b1-4feb811e6a75",
+      "Name": "FILELINKS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=FILELINKS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "294778af-4f32-45b0-b6b1-4feb811e6a75",
+        "name": "FILELINKS@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "01bc87b7-e847-427a-84fd-e207f35ec563",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "01bc87b7-e847-427a-84fd-e207f35ec563",
+      "Name": "OBJECTMOVETABLE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=OBJECTMOVETABLE,CN=FILELINKS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "01bc87b7-e847-427a-84fd-e207f35ec563",
+        "name": "OBJECTMOVETABLE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "ba78da6a-0927-4666-96ee-74eb743d009e",
+      "Name": "DEFAULT DOMAIN POLICY@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DEFAULT DOMAIN POLICY,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "ba78da6a-0927-4666-96ee-74eb743d009e",
+        "name": "DEFAULT DOMAIN POLICY@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "19899d1b-d308-4622-9e89-dd32c19c4d69",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "19899d1b-d308-4622-9e89-dd32c19c4d69",
+      "Name": "APPCATEGORIES@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=APPCATEGORIES,CN=DEFAULT DOMAIN POLICY,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "19899d1b-d308-4622-9e89-dd32c19c4d69",
+        "name": "APPCATEGORIES@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "4eaa344f-ed21-4fff-b745-90f6e14ac533",
+      "Name": "MEETINGS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=MEETINGS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "4eaa344f-ed21-4fff-b745-90f6e14ac533",
+        "name": "MEETINGS@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "0dc28993-5f23-463f-8614-25973dcf05a2",
+      "Name": "POLICIES@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "0dc28993-5f23-463f-8614-25973dcf05a2",
+        "name": "POLICIES@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "95c754d9-a359-46f3-8ebb-ff60d09f9e9b",
+          "ObjectType": "Gpo"
+        },
+        {
+          "ObjectIdentifier": "d29701fc-7fcf-46ce-9fe3-1b0feec1b684",
+          "ObjectType": "Gpo"
+        },
+        {
+          "ObjectIdentifier": "e65e1020-0eac-43ea-8a03-378af1220fd7",
+          "ObjectType": "Gpo"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "9542b5ac-3abd-4206-ba39-a059bc457a12",
+      "Name": "USER@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=USER,CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "9542b5ac-3abd-4206-ba39-a059bc457a12",
+        "name": "USER@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "0d291f6e-cc6f-4519-bf81-ed49f548f83d",
+      "Name": "MACHINE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=MACHINE,CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "0d291f6e-cc6f-4519-bf81-ed49f548f83d",
+        "name": "MACHINE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "09487bfa-328d-4480-9b98-59dff5a27ddb",
+      "Name": "USER@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=USER,CN={6AC1786C-016F-11D2-945F-00C04FB984F9},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "09487bfa-328d-4480-9b98-59dff5a27ddb",
+        "name": "USER@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "790e6301-9ae2-4bbc-a709-dd4966ebd29a",
+      "Name": "MACHINE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=MACHINE,CN={6AC1786C-016F-11D2-945F-00C04FB984F9},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "790e6301-9ae2-4bbc-a709-dd4966ebd29a",
+        "name": "MACHINE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "1bcdfea3-2fcb-43c2-8cf9-2c21bb12560a",
+      "Name": "RAS AND IAS SERVERS ACCESS CHECK@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=RAS AND IAS SERVERS ACCESS CHECK,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "1bcdfea3-2fcb-43c2-8cf9-2c21bb12560a",
+        "name": "RAS AND IAS SERVERS ACCESS CHECK@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "acd22126-09c1-46f0-a6ad-5158a58fc0f3",
+      "Name": "FILE REPLICATION SERVICE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=FILE REPLICATION SERVICE,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "acd22126-09c1-46f0-a6ad-5158a58fc0f3",
+        "name": "FILE REPLICATION SERVICE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "2c549251-d080-47c0-aee5-dba6425f53b1",
+      "Name": "DFS-CONFIGURATION@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DFS-CONFIGURATION,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "2c549251-d080-47c0-aee5-dba6425f53b1",
+        "name": "DFS-CONFIGURATION@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "9e002d7b-b14f-4e5d-b845-f70dcf980e4b",
+      "Name": "ADMINSDHOLDER@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=ADMINSDHOLDER,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "9e002d7b-b14f-4e5d-b845-f70dcf980e4b",
+        "name": "ADMINSDHOLDER@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "6807d7eb-a2f5-4790-a505-e6ca7d302e90",
+      "Name": "COMPARTITIONS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=COMPARTITIONS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "6807d7eb-a2f5-4790-a505-e6ca7d302e90",
+        "name": "COMPARTITIONS@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "ede3df1b-10e9-4c7f-b3a5-b46febe54252",
+      "Name": "COMPARTITIONSETS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=COMPARTITIONSETS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "ede3df1b-10e9-4c7f-b3a5-b46febe54252",
+        "name": "COMPARTITIONSETS@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "41880235-7ffb-48ba-b9be-a90cfc473b85",
+      "Name": "WMIPOLICY@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=WMIPOLICY,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "41880235-7ffb-48ba-b9be-a90cfc473b85",
+        "name": "WMIPOLICY@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "147bd8ae-c6c0-4dbf-8591-798efeb07ca9",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "2ee2fe2e-7ed1-461b-9783-4607d512c045",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "daed2d94-2c7f-4f83-88e6-fb635ed9f18a",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "c9f4962f-1831-4553-8336-0fc66a58cead",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "147bd8ae-c6c0-4dbf-8591-798efeb07ca9",
+      "Name": "POLICYTEMPLATE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=POLICYTEMPLATE,CN=WMIPOLICY,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "147bd8ae-c6c0-4dbf-8591-798efeb07ca9",
+        "name": "POLICYTEMPLATE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "2ee2fe2e-7ed1-461b-9783-4607d512c045",
+      "Name": "SOM@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=SOM,CN=WMIPOLICY,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "2ee2fe2e-7ed1-461b-9783-4607d512c045",
+        "name": "SOM@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "daed2d94-2c7f-4f83-88e6-fb635ed9f18a",
+      "Name": "POLICYTYPE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=POLICYTYPE,CN=WMIPOLICY,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "daed2d94-2c7f-4f83-88e6-fb635ed9f18a",
+        "name": "POLICYTYPE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "c9f4962f-1831-4553-8336-0fc66a58cead",
+      "Name": "WMIGPO@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=WMIGPO,CN=WMIPOLICY,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "c9f4962f-1831-4553-8336-0fc66a58cead",
+        "name": "WMIGPO@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "42514d0a-45e5-4515-a9f1-d5b8a0efa3ff",
+      "Name": "DOMAINUPDATES@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "42514d0a-45e5-4515-a9f1-d5b8a0efa3ff",
+        "name": "DOMAINUPDATES@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "7959080a-847b-416f-a2b3-56bf447c4756",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "0126b35c-56f8-4e3e-9c73-4d19e2429916",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "834f1fbb-0714-4592-9bcc-a6868a399560",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "7959080a-847b-416f-a2b3-56bf447c4756",
+      "Name": "OPERATIONS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "7959080a-847b-416f-a2b3-56bf447c4756",
+        "name": "OPERATIONS@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "aed12e22-5eba-4fd7-abaf-9cd8a97a0fe0",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "49502fd4-7465-47ad-b53b-8bd46f0ac296",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "02a7a96a-2cab-45b8-950e-5c63d736bcf1",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "d7854cd3-17e4-48ab-b8c4-f49514238e99",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "e4d3fb2c-d2de-416d-b9c1-23d13e916800",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "888128e1-d8aa-4f99-93b6-ac2cc0c1bcd6",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "2c73d93b-2f44-43a9-8ec1-9ff1df326c44",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "4b574a2f-fef7-4540-8d80-133d5a8feabd",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "3fb65ca1-f230-4c95-b4a1-e409544b406b",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "aa037afb-9f5c-429d-8d02-86cbf2743440",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "67bf369a-1269-4e97-97a5-e42b7728d651",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "99674295-a7dd-46c0-9075-3ca08425d5ae",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "4b9de91f-ea4a-4920-b627-9770db93c210",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "0e442118-0629-4b2f-98b6-750906c0ab1e",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "9ecea335-926e-434e-8b13-7fbb918276ea",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "2761cf37-d4be-4ca2-974a-337cc2e4a97c",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "e3f99789-8f2f-4557-9170-88d62edb4c03",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "565aaa5c-7948-43b9-a6c2-6de10f07e69c",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "3129ce97-64f7-4c81-a822-84e928a06a30",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "e07ae20c-b7df-445f-b46d-224ed5aa878f",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "6a2c41d7-e236-4df3-a7b1-9ea0ce4079c9",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "8c5ec7f5-a1eb-4f19-b645-760c263fddd6",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "7dc7fc34-53aa-4602-8f01-092ee7f15c5b",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "e66e964f-4528-47f6-9738-abda9a550b05",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "e8ed4666-76c0-4e4c-86d7-2e36fbc21478",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "bca88ce2-d6c4-4e95-89ff-73269ae7d78a",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "6547eaef-33cb-4f84-9579-733cf7d4ff2d",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "3db10ff1-f0f2-4e9d-9979-f109ddfb6f88",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "82670352-1599-4721-9722-c6eda80d493c",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "ccdc8a2a-5d2b-40e8-a770-c805ec9211f5",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "acb03bbd-3a9d-482c-8dae-560a8d147580",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "91f0dfbb-2819-4cd8-8f97-0aaa1320692e",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "42f4a8ce-fc71-4cf6-a445-995581762c9e",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "b0a63a42-ac33-4c49-8c21-48d34615bc4c",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "9683a63d-1569-4b10-9e5b-64f665ddc99a",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "ab0e478b-bc1b-4c4e-b51a-7d63d38fb6e9",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "fa2097d6-0da0-47cf-b586-f6cd992a00a7",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "9e3935e6-fed8-49b0-873c-07f913795445",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "c105f5ae-fedd-464c-b777-c3e5b53afb62",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "cc3f04b9-6569-477a-a786-9e39f9c3d580",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "d7d1384c-382e-44ee-bc44-bd5306e7252b",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "7bf45d4c-aa52-4331-931a-d6c88fc9d4e1",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "812af37c-a7ac-4248-8ce3-1b9835dc5571",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "94153732-4a27-4c16-b947-f4f7e39a5186",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "b519953b-7e43-406d-a308-12b9dae19748",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "01a8801e-4bde-432d-97b7-d12af3fd4dd0",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "273fcc8a-271c-4947-b2f5-1ba4ce1327da",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "6aed7dfd-c9d5-467a-b48f-334dfd80969f",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "a1702602-cfe1-42af-abdc-2aedfc3eb0bf",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "8ba01add-056c-4b7d-8d55-8794fda9d6c9",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "ad7b3c08-d643-4a9d-b013-ba7835c6f2ef",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "4d0c7cbf-836a-4f58-b804-6a6d4f9c3607",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "3635adce-9838-448c-8a4f-5924fd4d93a7",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "785b18bf-2e02-4b9e-b608-9cfb92274ee5",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "d90163e9-037e-4403-a161-5efc65f88dde",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "b83c4f39-b6ff-447a-acba-001a16594736",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "cc05c092-78e6-4c25-88e9-d721ebd25f40",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "30ea0d1b-fb30-40bb-a71e-8b51b3613781",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "caf2f1bc-8e60-4743-a1f3-d49f46e16627",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "f6478bcd-639f-4d6f-85f5-7a0dbf166918",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "8c2ad352-153c-43c7-b2e3-d8ba456b800d",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "5791263f-3f2f-47ad-80f8-baa55d133f5d",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "fe7f0757-1139-4b34-bfa2-734bf5cf9fa5",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "05e21644-8722-4221-b6ed-de751e3b0348",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "d1d134e4-b187-48db-a770-21e28de8d550",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "b125cbb2-c47a-40ef-8aa7-f97c5962d61d",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "3936b2da-0571-4b2b-aa96-4e7b5c6ed823",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "4bb7ed1c-168a-4035-885b-95ce0cb87155",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "197e9a78-75c5-4b62-87ee-8e996c01a2a2",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "7dc9a65a-0da9-41b1-9121-1acfc691a906",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "1932a76c-0f0e-49f2-ac40-163158fbc3a5",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "dfef213f-a174-4922-aa60-c41fabc6c28a",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "f049bfc7-7517-4aa7-bb40-a94522462e9f",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "e4c0f1e0-70ec-4323-a41d-ad99f7cdbbe0",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "e793b8f5-ffd4-4494-8452-2745ea9ad363",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "f3b33d70-eedb-463d-bc57-a4074b19f572",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "161ffb01-27e5-49bd-9a21-937e8f62e7e9",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "cab6c702-406d-4003-b6bd-98eee819d963",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "eedcd654-999a-42fe-8421-d981c0482467",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "a3d37e8a-ea22-4cb1-bdcb-fb7910821987",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "59c8ba4b-4ad2-447b-a1ce-7db9bc2e5faa",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "6e71eb6c-6041-4d3d-87e7-4849d7481d33",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "a98df8c4-cde8-4e12-99aa-7642872778ff",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "f8a8a38b-8fb0-4d54-b113-efba50a49311",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "b2c93449-4968-4358-8062-7faac4260009",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "af87859f-060b-478a-bccb-a3ef8bd556f2",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "eea84d02-1e8d-4bad-b131-f0ac88c82fda",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "aed12e22-5eba-4fd7-abaf-9cd8a97a0fe0",
+      "Name": "AB402345-D3C3-455D-9FF7-40268A1099B6@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=AB402345-D3C3-455D-9FF7-40268A1099B6,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "aed12e22-5eba-4fd7-abaf-9cd8a97a0fe0",
+        "name": "AB402345-D3C3-455D-9FF7-40268A1099B6@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "49502fd4-7465-47ad-b53b-8bd46f0ac296",
+      "Name": "BAB5F54D-06C8-48DE-9B87-D78B796564E4@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=BAB5F54D-06C8-48DE-9B87-D78B796564E4,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "49502fd4-7465-47ad-b53b-8bd46f0ac296",
+        "name": "BAB5F54D-06C8-48DE-9B87-D78B796564E4@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "02a7a96a-2cab-45b8-950e-5c63d736bcf1",
+      "Name": "F3DD09DD-25E8-4F9C-85DF-12D6D2F2F2F5@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=F3DD09DD-25E8-4F9C-85DF-12D6D2F2F2F5,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "02a7a96a-2cab-45b8-950e-5c63d736bcf1",
+        "name": "F3DD09DD-25E8-4F9C-85DF-12D6D2F2F2F5@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "d7854cd3-17e4-48ab-b8c4-f49514238e99",
+      "Name": "2416C60A-FE15-4D7A-A61E-DFFD5DF864D3@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=2416C60A-FE15-4D7A-A61E-DFFD5DF864D3,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "d7854cd3-17e4-48ab-b8c4-f49514238e99",
+        "name": "2416C60A-FE15-4D7A-A61E-DFFD5DF864D3@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "e4d3fb2c-d2de-416d-b9c1-23d13e916800",
+      "Name": "7868D4C8-AC41-4E05-B401-776280E8E9F1@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=7868D4C8-AC41-4E05-B401-776280E8E9F1,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e4d3fb2c-d2de-416d-b9c1-23d13e916800",
+        "name": "7868D4C8-AC41-4E05-B401-776280E8E9F1@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "888128e1-d8aa-4f99-93b6-ac2cc0c1bcd6",
+      "Name": "860C36ED-5241-4C62-A18B-CF6FF9994173@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=860C36ED-5241-4C62-A18B-CF6FF9994173,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "888128e1-d8aa-4f99-93b6-ac2cc0c1bcd6",
+        "name": "860C36ED-5241-4C62-A18B-CF6FF9994173@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "2c73d93b-2f44-43a9-8ec1-9ff1df326c44",
+      "Name": "0E660EA3-8A5E-4495-9AD7-CA1BD4638F9E@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=0E660EA3-8A5E-4495-9AD7-CA1BD4638F9E,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "2c73d93b-2f44-43a9-8ec1-9ff1df326c44",
+        "name": "0E660EA3-8A5E-4495-9AD7-CA1BD4638F9E@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "4b574a2f-fef7-4540-8d80-133d5a8feabd",
+      "Name": "A86FE12A-0F62-4E2A-B271-D27F601F8182@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=A86FE12A-0F62-4E2A-B271-D27F601F8182,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "4b574a2f-fef7-4540-8d80-133d5a8feabd",
+        "name": "A86FE12A-0F62-4E2A-B271-D27F601F8182@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "3fb65ca1-f230-4c95-b4a1-e409544b406b",
+      "Name": "D85C0BFD-094F-4CAD-A2B5-82AC9268475D@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=D85C0BFD-094F-4CAD-A2B5-82AC9268475D,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "3fb65ca1-f230-4c95-b4a1-e409544b406b",
+        "name": "D85C0BFD-094F-4CAD-A2B5-82AC9268475D@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "aa037afb-9f5c-429d-8d02-86cbf2743440",
+      "Name": "6ADA9FF7-C9DF-45C1-908E-9FEF2FAB008A@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6ADA9FF7-C9DF-45C1-908E-9FEF2FAB008A,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "aa037afb-9f5c-429d-8d02-86cbf2743440",
+        "name": "6ADA9FF7-C9DF-45C1-908E-9FEF2FAB008A@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "67bf369a-1269-4e97-97a5-e42b7728d651",
+      "Name": "10B3AD2A-6883-4FA7-90FC-6377CBDC1B26@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=10B3AD2A-6883-4FA7-90FC-6377CBDC1B26,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "67bf369a-1269-4e97-97a5-e42b7728d651",
+        "name": "10B3AD2A-6883-4FA7-90FC-6377CBDC1B26@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "99674295-a7dd-46c0-9075-3ca08425d5ae",
+      "Name": "98DE1D3E-6611-443B-8B4E-F4337F1DED0B@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=98DE1D3E-6611-443B-8B4E-F4337F1DED0B,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "99674295-a7dd-46c0-9075-3ca08425d5ae",
+        "name": "98DE1D3E-6611-443B-8B4E-F4337F1DED0B@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "4b9de91f-ea4a-4920-b627-9770db93c210",
+      "Name": "F607FD87-80CF-45E2-890B-6CF97EC0E284@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=F607FD87-80CF-45E2-890B-6CF97EC0E284,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "4b9de91f-ea4a-4920-b627-9770db93c210",
+        "name": "F607FD87-80CF-45E2-890B-6CF97EC0E284@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "0e442118-0629-4b2f-98b6-750906c0ab1e",
+      "Name": "9CAC1F66-2167-47AD-A472-2A13251310E4@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=9CAC1F66-2167-47AD-A472-2A13251310E4,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "0e442118-0629-4b2f-98b6-750906c0ab1e",
+        "name": "9CAC1F66-2167-47AD-A472-2A13251310E4@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "9ecea335-926e-434e-8b13-7fbb918276ea",
+      "Name": "6FF880D6-11E7-4ED1-A20F-AAC45DA48650@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6FF880D6-11E7-4ED1-A20F-AAC45DA48650,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "9ecea335-926e-434e-8b13-7fbb918276ea",
+        "name": "6FF880D6-11E7-4ED1-A20F-AAC45DA48650@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "2761cf37-d4be-4ca2-974a-337cc2e4a97c",
+      "Name": "446F24EA-CFD5-4C52-8346-96E170BCB912@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=446F24EA-CFD5-4C52-8346-96E170BCB912,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "2761cf37-d4be-4ca2-974a-337cc2e4a97c",
+        "name": "446F24EA-CFD5-4C52-8346-96E170BCB912@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "e3f99789-8f2f-4557-9170-88d62edb4c03",
+      "Name": "51CBA88B-99CF-4E16-BEF2-C427B38D0767@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=51CBA88B-99CF-4E16-BEF2-C427B38D0767,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e3f99789-8f2f-4557-9170-88d62edb4c03",
+        "name": "51CBA88B-99CF-4E16-BEF2-C427B38D0767@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "565aaa5c-7948-43b9-a6c2-6de10f07e69c",
+      "Name": "A3DAC986-80E7-4E59-A059-54CB1AB43CB9@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=A3DAC986-80E7-4E59-A059-54CB1AB43CB9,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "565aaa5c-7948-43b9-a6c2-6de10f07e69c",
+        "name": "A3DAC986-80E7-4E59-A059-54CB1AB43CB9@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "3129ce97-64f7-4c81-a822-84e928a06a30",
+      "Name": "293F0798-EA5C-4455-9F5D-45F33A30703B@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=293F0798-EA5C-4455-9F5D-45F33A30703B,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "3129ce97-64f7-4c81-a822-84e928a06a30",
+        "name": "293F0798-EA5C-4455-9F5D-45F33A30703B@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "e07ae20c-b7df-445f-b46d-224ed5aa878f",
+      "Name": "5C82B233-75FC-41B3-AC71-C69592E6BF15@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=5C82B233-75FC-41B3-AC71-C69592E6BF15,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e07ae20c-b7df-445f-b46d-224ed5aa878f",
+        "name": "5C82B233-75FC-41B3-AC71-C69592E6BF15@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "6a2c41d7-e236-4df3-a7b1-9ea0ce4079c9",
+      "Name": "7FFEF925-405B-440A-8D58-35E8CD6E98C3@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=7FFEF925-405B-440A-8D58-35E8CD6E98C3,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "6a2c41d7-e236-4df3-a7b1-9ea0ce4079c9",
+        "name": "7FFEF925-405B-440A-8D58-35E8CD6E98C3@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "8c5ec7f5-a1eb-4f19-b645-760c263fddd6",
+      "Name": "4DFBB973-8A62-4310-A90C-776E00F83222@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=4DFBB973-8A62-4310-A90C-776E00F83222,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "8c5ec7f5-a1eb-4f19-b645-760c263fddd6",
+        "name": "4DFBB973-8A62-4310-A90C-776E00F83222@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "7dc7fc34-53aa-4602-8f01-092ee7f15c5b",
+      "Name": "8437C3D8-7689-4200-BF38-79E4AC33DFA0@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=8437C3D8-7689-4200-BF38-79E4AC33DFA0,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "7dc7fc34-53aa-4602-8f01-092ee7f15c5b",
+        "name": "8437C3D8-7689-4200-BF38-79E4AC33DFA0@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "e66e964f-4528-47f6-9738-abda9a550b05",
+      "Name": "7CFB016C-4F87-4406-8166-BD9DF943947F@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=7CFB016C-4F87-4406-8166-BD9DF943947F,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e66e964f-4528-47f6-9738-abda9a550b05",
+        "name": "7CFB016C-4F87-4406-8166-BD9DF943947F@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "e8ed4666-76c0-4e4c-86d7-2e36fbc21478",
+      "Name": "F7ED4553-D82B-49EF-A839-2F38A36BB069@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=F7ED4553-D82B-49EF-A839-2F38A36BB069,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e8ed4666-76c0-4e4c-86d7-2e36fbc21478",
+        "name": "F7ED4553-D82B-49EF-A839-2F38A36BB069@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "bca88ce2-d6c4-4e95-89ff-73269ae7d78a",
+      "Name": "8CA38317-13A4-4BD4-806F-EBED6ACB5D0C@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=8CA38317-13A4-4BD4-806F-EBED6ACB5D0C,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "bca88ce2-d6c4-4e95-89ff-73269ae7d78a",
+        "name": "8CA38317-13A4-4BD4-806F-EBED6ACB5D0C@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "6547eaef-33cb-4f84-9579-733cf7d4ff2d",
+      "Name": "3C784009-1F57-4E2A-9B04-6915C9E71961@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=3C784009-1F57-4E2A-9B04-6915C9E71961,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "6547eaef-33cb-4f84-9579-733cf7d4ff2d",
+        "name": "3C784009-1F57-4E2A-9B04-6915C9E71961@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "3db10ff1-f0f2-4e9d-9979-f109ddfb6f88",
+      "Name": "6BCD5678-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5678-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "3db10ff1-f0f2-4e9d-9979-f109ddfb6f88",
+        "name": "6BCD5678-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "82670352-1599-4721-9722-c6eda80d493c",
+      "Name": "6BCD5679-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5679-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "82670352-1599-4721-9722-c6eda80d493c",
+        "name": "6BCD5679-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "ccdc8a2a-5d2b-40e8-a770-c805ec9211f5",
+      "Name": "6BCD567A-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD567A-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "ccdc8a2a-5d2b-40e8-a770-c805ec9211f5",
+        "name": "6BCD567A-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "acb03bbd-3a9d-482c-8dae-560a8d147580",
+      "Name": "6BCD567B-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD567B-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "acb03bbd-3a9d-482c-8dae-560a8d147580",
+        "name": "6BCD567B-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "91f0dfbb-2819-4cd8-8f97-0aaa1320692e",
+      "Name": "6BCD567C-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD567C-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "91f0dfbb-2819-4cd8-8f97-0aaa1320692e",
+        "name": "6BCD567C-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "42f4a8ce-fc71-4cf6-a445-995581762c9e",
+      "Name": "6BCD567D-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD567D-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "42f4a8ce-fc71-4cf6-a445-995581762c9e",
+        "name": "6BCD567D-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "b0a63a42-ac33-4c49-8c21-48d34615bc4c",
+      "Name": "6BCD567E-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD567E-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "b0a63a42-ac33-4c49-8c21-48d34615bc4c",
+        "name": "6BCD567E-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "9683a63d-1569-4b10-9e5b-64f665ddc99a",
+      "Name": "6BCD567F-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD567F-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "9683a63d-1569-4b10-9e5b-64f665ddc99a",
+        "name": "6BCD567F-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "ab0e478b-bc1b-4c4e-b51a-7d63d38fb6e9",
+      "Name": "6BCD5680-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5680-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "ab0e478b-bc1b-4c4e-b51a-7d63d38fb6e9",
+        "name": "6BCD5680-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "fa2097d6-0da0-47cf-b586-f6cd992a00a7",
+      "Name": "6BCD5681-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5681-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "fa2097d6-0da0-47cf-b586-f6cd992a00a7",
+        "name": "6BCD5681-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "9e3935e6-fed8-49b0-873c-07f913795445",
+      "Name": "6BCD5682-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5682-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "9e3935e6-fed8-49b0-873c-07f913795445",
+        "name": "6BCD5682-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "c105f5ae-fedd-464c-b777-c3e5b53afb62",
+      "Name": "6BCD5683-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5683-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "c105f5ae-fedd-464c-b777-c3e5b53afb62",
+        "name": "6BCD5683-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "cc3f04b9-6569-477a-a786-9e39f9c3d580",
+      "Name": "6BCD5684-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5684-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "cc3f04b9-6569-477a-a786-9e39f9c3d580",
+        "name": "6BCD5684-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "d7d1384c-382e-44ee-bc44-bd5306e7252b",
+      "Name": "6BCD5685-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5685-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "d7d1384c-382e-44ee-bc44-bd5306e7252b",
+        "name": "6BCD5685-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "7bf45d4c-aa52-4331-931a-d6c88fc9d4e1",
+      "Name": "6BCD5686-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5686-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "7bf45d4c-aa52-4331-931a-d6c88fc9d4e1",
+        "name": "6BCD5686-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "812af37c-a7ac-4248-8ce3-1b9835dc5571",
+      "Name": "6BCD5687-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5687-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "812af37c-a7ac-4248-8ce3-1b9835dc5571",
+        "name": "6BCD5687-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "94153732-4a27-4c16-b947-f4f7e39a5186",
+      "Name": "6BCD5688-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5688-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "94153732-4a27-4c16-b947-f4f7e39a5186",
+        "name": "6BCD5688-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "b519953b-7e43-406d-a308-12b9dae19748",
+      "Name": "6BCD5689-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD5689-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "b519953b-7e43-406d-a308-12b9dae19748",
+        "name": "6BCD5689-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "01a8801e-4bde-432d-97b7-d12af3fd4dd0",
+      "Name": "6BCD568A-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD568A-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "01a8801e-4bde-432d-97b7-d12af3fd4dd0",
+        "name": "6BCD568A-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "273fcc8a-271c-4947-b2f5-1ba4ce1327da",
+      "Name": "6BCD568B-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD568B-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "273fcc8a-271c-4947-b2f5-1ba4ce1327da",
+        "name": "6BCD568B-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "6aed7dfd-c9d5-467a-b48f-334dfd80969f",
+      "Name": "6BCD568C-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD568C-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "6aed7dfd-c9d5-467a-b48f-334dfd80969f",
+        "name": "6BCD568C-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "a1702602-cfe1-42af-abdc-2aedfc3eb0bf",
+      "Name": "6BCD568D-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6BCD568D-8314-11D6-977B-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "a1702602-cfe1-42af-abdc-2aedfc3eb0bf",
+        "name": "6BCD568D-8314-11D6-977B-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "8ba01add-056c-4b7d-8d55-8794fda9d6c9",
+      "Name": "3051C66F-B332-4A73-9A20-2D6A7D6E6A1C@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=3051C66F-B332-4A73-9A20-2D6A7D6E6A1C,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "8ba01add-056c-4b7d-8d55-8794fda9d6c9",
+        "name": "3051C66F-B332-4A73-9A20-2D6A7D6E6A1C@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "ad7b3c08-d643-4a9d-b013-ba7835c6f2ef",
+      "Name": "3E4F4182-AC5D-4378-B760-0EAB2DE593E2@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=3E4F4182-AC5D-4378-B760-0EAB2DE593E2,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "ad7b3c08-d643-4a9d-b013-ba7835c6f2ef",
+        "name": "3E4F4182-AC5D-4378-B760-0EAB2DE593E2@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "4d0c7cbf-836a-4f58-b804-6a6d4f9c3607",
+      "Name": "C4F17608-E611-11D6-9793-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=C4F17608-E611-11D6-9793-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "4d0c7cbf-836a-4f58-b804-6a6d4f9c3607",
+        "name": "C4F17608-E611-11D6-9793-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "3635adce-9838-448c-8a4f-5924fd4d93a7",
+      "Name": "13D15CF0-E6C8-11D6-9793-00C04F613221@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=13D15CF0-E6C8-11D6-9793-00C04F613221,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "3635adce-9838-448c-8a4f-5924fd4d93a7",
+        "name": "13D15CF0-E6C8-11D6-9793-00C04F613221@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "785b18bf-2e02-4b9e-b608-9cfb92274ee5",
+      "Name": "8DDF6913-1C7B-4C59-A5AF-B9CA3B3D2C4C@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=8DDF6913-1C7B-4C59-A5AF-B9CA3B3D2C4C,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "785b18bf-2e02-4b9e-b608-9cfb92274ee5",
+        "name": "8DDF6913-1C7B-4C59-A5AF-B9CA3B3D2C4C@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "d90163e9-037e-4403-a161-5efc65f88dde",
+      "Name": "DDA1D01D-4BD7-4C49-A184-46F9241B560E@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DDA1D01D-4BD7-4C49-A184-46F9241B560E,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "d90163e9-037e-4403-a161-5efc65f88dde",
+        "name": "DDA1D01D-4BD7-4C49-A184-46F9241B560E@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "b83c4f39-b6ff-447a-acba-001a16594736",
+      "Name": "A1789BFB-E0A2-4739-8CC0-E77D892D080A@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=A1789BFB-E0A2-4739-8CC0-E77D892D080A,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "b83c4f39-b6ff-447a-acba-001a16594736",
+        "name": "A1789BFB-E0A2-4739-8CC0-E77D892D080A@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "cc05c092-78e6-4c25-88e9-d721ebd25f40",
+      "Name": "61B34CB0-55EE-4BE9-B595-97810B92B017@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=61B34CB0-55EE-4BE9-B595-97810B92B017,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "cc05c092-78e6-4c25-88e9-d721ebd25f40",
+        "name": "61B34CB0-55EE-4BE9-B595-97810B92B017@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "30ea0d1b-fb30-40bb-a71e-8b51b3613781",
+      "Name": "57428D75-BEF7-43E1-938B-2E749F5A8D56@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=57428D75-BEF7-43E1-938B-2E749F5A8D56,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "30ea0d1b-fb30-40bb-a71e-8b51b3613781",
+        "name": "57428D75-BEF7-43E1-938B-2E749F5A8D56@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "caf2f1bc-8e60-4743-a1f3-d49f46e16627",
+      "Name": "EBAD865A-D649-416F-9922-456B53BBB5B8@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=EBAD865A-D649-416F-9922-456B53BBB5B8,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "caf2f1bc-8e60-4743-a1f3-d49f46e16627",
+        "name": "EBAD865A-D649-416F-9922-456B53BBB5B8@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "f6478bcd-639f-4d6f-85f5-7a0dbf166918",
+      "Name": "0B7FB422-3609-4587-8C2E-94B10F67D1BF@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=0B7FB422-3609-4587-8C2E-94B10F67D1BF,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "f6478bcd-639f-4d6f-85f5-7a0dbf166918",
+        "name": "0B7FB422-3609-4587-8C2E-94B10F67D1BF@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "8c2ad352-153c-43c7-b2e3-d8ba456b800d",
+      "Name": "2951353E-D102-4EA5-906C-54247EEEC741@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=2951353E-D102-4EA5-906C-54247EEEC741,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "8c2ad352-153c-43c7-b2e3-d8ba456b800d",
+        "name": "2951353E-D102-4EA5-906C-54247EEEC741@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "5791263f-3f2f-47ad-80f8-baa55d133f5d",
+      "Name": "71482D49-8870-4CB3-A438-B6FC9EC35D70@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=71482D49-8870-4CB3-A438-B6FC9EC35D70,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "5791263f-3f2f-47ad-80f8-baa55d133f5d",
+        "name": "71482D49-8870-4CB3-A438-B6FC9EC35D70@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "fe7f0757-1139-4b34-bfa2-734bf5cf9fa5",
+      "Name": "AED72870-BF16-4788-8AC7-22299C8207F1@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=AED72870-BF16-4788-8AC7-22299C8207F1,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "fe7f0757-1139-4b34-bfa2-734bf5cf9fa5",
+        "name": "AED72870-BF16-4788-8AC7-22299C8207F1@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "05e21644-8722-4221-b6ed-de751e3b0348",
+      "Name": "F58300D1-B71A-4DB6-88A1-A8B9538BEACA@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=F58300D1-B71A-4DB6-88A1-A8B9538BEACA,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "05e21644-8722-4221-b6ed-de751e3b0348",
+        "name": "F58300D1-B71A-4DB6-88A1-A8B9538BEACA@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "d1d134e4-b187-48db-a770-21e28de8d550",
+      "Name": "231FB90B-C92A-40C9-9379-BACFC313A3E3@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=231FB90B-C92A-40C9-9379-BACFC313A3E3,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "d1d134e4-b187-48db-a770-21e28de8d550",
+        "name": "231FB90B-C92A-40C9-9379-BACFC313A3E3@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "b125cbb2-c47a-40ef-8aa7-f97c5962d61d",
+      "Name": "4AAABC3A-C416-4B9C-A6BB-4B453AB1C1F0@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=4AAABC3A-C416-4B9C-A6BB-4B453AB1C1F0,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "b125cbb2-c47a-40ef-8aa7-f97c5962d61d",
+        "name": "4AAABC3A-C416-4B9C-A6BB-4B453AB1C1F0@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "3936b2da-0571-4b2b-aa96-4e7b5c6ed823",
+      "Name": "9738C400-7795-4D6E-B19D-C16CD6486166@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=9738C400-7795-4D6E-B19D-C16CD6486166,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "3936b2da-0571-4b2b-aa96-4e7b5c6ed823",
+        "name": "9738C400-7795-4D6E-B19D-C16CD6486166@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "4bb7ed1c-168a-4035-885b-95ce0cb87155",
+      "Name": "DE10D491-909F-4FB0-9ABB-4B7865C0FE80@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DE10D491-909F-4FB0-9ABB-4B7865C0FE80,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "4bb7ed1c-168a-4035-885b-95ce0cb87155",
+        "name": "DE10D491-909F-4FB0-9ABB-4B7865C0FE80@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "197e9a78-75c5-4b62-87ee-8e996c01a2a2",
+      "Name": "B96ED344-545A-4172-AA0C-68118202F125@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=B96ED344-545A-4172-AA0C-68118202F125,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "197e9a78-75c5-4b62-87ee-8e996c01a2a2",
+        "name": "B96ED344-545A-4172-AA0C-68118202F125@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "7dc9a65a-0da9-41b1-9121-1acfc691a906",
+      "Name": "4C93AD42-178A-4275-8600-16811D28F3AA@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=4C93AD42-178A-4275-8600-16811D28F3AA,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "7dc9a65a-0da9-41b1-9121-1acfc691a906",
+        "name": "4C93AD42-178A-4275-8600-16811D28F3AA@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "1932a76c-0f0e-49f2-ac40-163158fbc3a5",
+      "Name": "C88227BC-FCCA-4B58-8D8A-CD3D64528A02@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=C88227BC-FCCA-4B58-8D8A-CD3D64528A02,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "1932a76c-0f0e-49f2-ac40-163158fbc3a5",
+        "name": "C88227BC-FCCA-4B58-8D8A-CD3D64528A02@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "dfef213f-a174-4922-aa60-c41fabc6c28a",
+      "Name": "5E1574F6-55DF-493E-A671-AAEFFCA6A100@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=5E1574F6-55DF-493E-A671-AAEFFCA6A100,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "dfef213f-a174-4922-aa60-c41fabc6c28a",
+        "name": "5E1574F6-55DF-493E-A671-AAEFFCA6A100@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "f049bfc7-7517-4aa7-bb40-a94522462e9f",
+      "Name": "D262AAE8-41F7-48ED-9F35-56BBB677573D@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=D262AAE8-41F7-48ED-9F35-56BBB677573D,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "f049bfc7-7517-4aa7-bb40-a94522462e9f",
+        "name": "D262AAE8-41F7-48ED-9F35-56BBB677573D@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "e4c0f1e0-70ec-4323-a41d-ad99f7cdbbe0",
+      "Name": "82112BA0-7E4C-4A44-89D9-D46C9612BF91@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=82112BA0-7E4C-4A44-89D9-D46C9612BF91,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e4c0f1e0-70ec-4323-a41d-ad99f7cdbbe0",
+        "name": "82112BA0-7E4C-4A44-89D9-D46C9612BF91@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "e793b8f5-ffd4-4494-8452-2745ea9ad363",
+      "Name": "C3C927A6-CC1D-47C0-966B-BE8F9B63D991@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=C3C927A6-CC1D-47C0-966B-BE8F9B63D991,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e793b8f5-ffd4-4494-8452-2745ea9ad363",
+        "name": "C3C927A6-CC1D-47C0-966B-BE8F9B63D991@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "f3b33d70-eedb-463d-bc57-a4074b19f572",
+      "Name": "54AFCFB9-637A-4251-9F47-4D50E7021211@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=54AFCFB9-637A-4251-9F47-4D50E7021211,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "f3b33d70-eedb-463d-bc57-a4074b19f572",
+        "name": "54AFCFB9-637A-4251-9F47-4D50E7021211@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "161ffb01-27e5-49bd-9a21-937e8f62e7e9",
+      "Name": "F4728883-84DD-483C-9897-274F2EBCF11E@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=F4728883-84DD-483C-9897-274F2EBCF11E,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "161ffb01-27e5-49bd-9a21-937e8f62e7e9",
+        "name": "F4728883-84DD-483C-9897-274F2EBCF11E@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "cab6c702-406d-4003-b6bd-98eee819d963",
+      "Name": "FF4F9D27-7157-4CB0-80A9-5D6F2B14C8FF@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=FF4F9D27-7157-4CB0-80A9-5D6F2B14C8FF,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "cab6c702-406d-4003-b6bd-98eee819d963",
+        "name": "FF4F9D27-7157-4CB0-80A9-5D6F2B14C8FF@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "eedcd654-999a-42fe-8421-d981c0482467",
+      "Name": "83C53DA7-427E-47A4-A07A-A324598B88F7@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=83C53DA7-427E-47A4-A07A-A324598B88F7,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "eedcd654-999a-42fe-8421-d981c0482467",
+        "name": "83C53DA7-427E-47A4-A07A-A324598B88F7@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "a3d37e8a-ea22-4cb1-bdcb-fb7910821987",
+      "Name": "C81FC9CC-0130-4FD1-B272-634D74818133@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=C81FC9CC-0130-4FD1-B272-634D74818133,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "a3d37e8a-ea22-4cb1-bdcb-fb7910821987",
+        "name": "C81FC9CC-0130-4FD1-B272-634D74818133@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "59c8ba4b-4ad2-447b-a1ce-7db9bc2e5faa",
+      "Name": "E5F9E791-D96D-4FC9-93C9-D53E1DC439BA@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=E5F9E791-D96D-4FC9-93C9-D53E1DC439BA,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "59c8ba4b-4ad2-447b-a1ce-7db9bc2e5faa",
+        "name": "E5F9E791-D96D-4FC9-93C9-D53E1DC439BA@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "6e71eb6c-6041-4d3d-87e7-4849d7481d33",
+      "Name": "E6D5FD00-385D-4E65-B02D-9DA3493ED850@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=E6D5FD00-385D-4E65-B02D-9DA3493ED850,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "6e71eb6c-6041-4d3d-87e7-4849d7481d33",
+        "name": "E6D5FD00-385D-4E65-B02D-9DA3493ED850@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "a98df8c4-cde8-4e12-99aa-7642872778ff",
+      "Name": "3A6B3FBF-3168-4312-A10D-DD5B3393952D@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=3A6B3FBF-3168-4312-A10D-DD5B3393952D,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "a98df8c4-cde8-4e12-99aa-7642872778ff",
+        "name": "3A6B3FBF-3168-4312-A10D-DD5B3393952D@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "f8a8a38b-8fb0-4d54-b113-efba50a49311",
+      "Name": "7F950403-0AB3-47F9-9730-5D7B0269F9BD@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=7F950403-0AB3-47F9-9730-5D7B0269F9BD,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "f8a8a38b-8fb0-4d54-b113-efba50a49311",
+        "name": "7F950403-0AB3-47F9-9730-5D7B0269F9BD@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "b2c93449-4968-4358-8062-7faac4260009",
+      "Name": "434BB40D-DBC9-4FE7-81D4-D57229F7B080@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=434BB40D-DBC9-4FE7-81D4-D57229F7B080,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "b2c93449-4968-4358-8062-7faac4260009",
+        "name": "434BB40D-DBC9-4FE7-81D4-D57229F7B080@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "af87859f-060b-478a-bccb-a3ef8bd556f2",
+      "Name": "A0C238BA-9E30-4EE6-80A6-43F731E9A5CD@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=A0C238BA-9E30-4EE6-80A6-43F731E9A5CD,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "af87859f-060b-478a-bccb-a3ef8bd556f2",
+        "name": "A0C238BA-9E30-4EE6-80A6-43F731E9A5CD@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "0126b35c-56f8-4e3e-9c73-4d19e2429916",
+      "Name": "WINDOWS2003UPDATE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=WINDOWS2003UPDATE,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "0126b35c-56f8-4e3e-9c73-4d19e2429916",
+        "name": "WINDOWS2003UPDATE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "834f1fbb-0714-4592-9bcc-a6868a399560",
+      "Name": "ACTIVEDIRECTORYUPDATE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=ACTIVEDIRECTORYUPDATE,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "834f1fbb-0714-4592-9bcc-a6868a399560",
+        "name": "ACTIVEDIRECTORYUPDATE@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "8acbbad0-6c45-4316-ae16-2fa8221efc51",
+      "Name": "PSPS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=PSPS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "8acbbad0-6c45-4316-ae16-2fa8221efc51",
+        "name": "PSPS@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "cccd0b5d-e9c9-4b08-a41d-b5829278147c",
+      "Name": "SERVER@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=SERVER,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "cccd0b5d-e9c9-4b08-a41d-b5829278147c",
+        "name": "SERVER@JJK.LOCAL",
+        "whencreated": 1728418783,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "eea84d02-1e8d-4bad-b131-f0ac88c82fda",
+      "Name": "6E157EDF-4E72-4052-A82A-EC3F91021A22@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=6E157EDF-4E72-4052-A82A-EC3F91021A22,CN=OPERATIONS,CN=DOMAINUPDATES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "eea84d02-1e8d-4bad-b131-f0ac88c82fda",
+        "name": "6E157EDF-4E72-4052-A82A-EC3F91021A22@JJK.LOCAL",
+        "whencreated": 1728418831,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "d3bf134e-0653-4f6a-8b3b-62ea90eb405f",
+      "Name": "RID MANAGER$@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=RID MANAGER$,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "d3bf134e-0653-4f6a-8b3b-62ea90eb405f",
+        "name": "RID MANAGER$@JJK.LOCAL",
+        "whencreated": 1728418840,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "1183bc17-1fb8-41b1-b5a7-982c6be8cbe8",
+      "Name": "RID SET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=RID SET,CN=DC-CURSE,OU=DOMAIN CONTROLLERS,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "1183bc17-1fb8-41b1-b5a7-982c6be8cbe8",
+        "name": "RID SET@JJK.LOCAL",
+        "whencreated": 1728418840,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "fdf368b3-a7e0-44fe-959a-f4cec6e33acd",
+      "Name": "ROOTDNSSERVERS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "fdf368b3-a7e0-44fe-959a-f4cec6e33acd",
+        "name": "ROOTDNSSERVERS@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "4c27e710-3a81-4a69-8daa-a21943834455",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "cf6e5938-6984-4832-9d0a-2ad2adc1021a",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "6d8722bd-3d16-4b62-99ec-2eb06564f829",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "34f26f75-9dfb-406b-9118-17dd36f7b42b",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "2822a7b6-a9c7-4d28-bf3f-ac6f3ad41347",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "3e85ca60-a495-4363-a8d7-4415cdaa3802",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "879a56dd-223f-4cfe-b4c2-a21a38d541d2",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "bab009c3-ff8a-4b87-a7e8-58e4fd46742d",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "864d5dd3-9a42-4b9e-bccb-a3ac6b41bed4",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "6dbb9c5d-3122-40d1-bc1c-d0d510e6058d",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "7772f01d-d3c5-4192-b9d1-a19edf5f3658",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "7ab2e7e5-c0c7-4c55-ba1a-3a0d05a2876c",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "79390302-609b-4c01-a030-5aeb65c85b78",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "b5b169b1-2e82-4d4f-8ed6-1d2dceed9238",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "4c27e710-3a81-4a69-8daa-a21943834455",
+      "Name": "@",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=@,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "4c27e710-3a81-4a69-8daa-a21943834455",
+        "name": "@",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "cf6e5938-6984-4832-9d0a-2ad2adc1021a",
+      "Name": "A.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=A.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "cf6e5938-6984-4832-9d0a-2ad2adc1021a",
+        "name": "A.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "6d8722bd-3d16-4b62-99ec-2eb06564f829",
+      "Name": "B.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=B.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "6d8722bd-3d16-4b62-99ec-2eb06564f829",
+        "name": "B.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "34f26f75-9dfb-406b-9118-17dd36f7b42b",
+      "Name": "C.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=C.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "34f26f75-9dfb-406b-9118-17dd36f7b42b",
+        "name": "C.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "2822a7b6-a9c7-4d28-bf3f-ac6f3ad41347",
+      "Name": "D.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=D.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "2822a7b6-a9c7-4d28-bf3f-ac6f3ad41347",
+        "name": "D.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "3e85ca60-a495-4363-a8d7-4415cdaa3802",
+      "Name": "E.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=E.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "3e85ca60-a495-4363-a8d7-4415cdaa3802",
+        "name": "E.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "879a56dd-223f-4cfe-b4c2-a21a38d541d2",
+      "Name": "F.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=F.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "879a56dd-223f-4cfe-b4c2-a21a38d541d2",
+        "name": "F.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "bab009c3-ff8a-4b87-a7e8-58e4fd46742d",
+      "Name": "G.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=G.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "bab009c3-ff8a-4b87-a7e8-58e4fd46742d",
+        "name": "G.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "864d5dd3-9a42-4b9e-bccb-a3ac6b41bed4",
+      "Name": "H.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=H.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "864d5dd3-9a42-4b9e-bccb-a3ac6b41bed4",
+        "name": "H.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "6dbb9c5d-3122-40d1-bc1c-d0d510e6058d",
+      "Name": "I.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=I.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "6dbb9c5d-3122-40d1-bc1c-d0d510e6058d",
+        "name": "I.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "7772f01d-d3c5-4192-b9d1-a19edf5f3658",
+      "Name": "J.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=J.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "7772f01d-d3c5-4192-b9d1-a19edf5f3658",
+        "name": "J.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "7ab2e7e5-c0c7-4c55-ba1a-3a0d05a2876c",
+      "Name": "K.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=K.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "7ab2e7e5-c0c7-4c55-ba1a-3a0d05a2876c",
+        "name": "K.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "79390302-609b-4c01-a030-5aeb65c85b78",
+      "Name": "L.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=L.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "79390302-609b-4c01-a030-5aeb65c85b78",
+        "name": "L.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418870,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "b5b169b1-2e82-4d4f-8ed6-1d2dceed9238",
+      "Name": "M.ROOT-SERVERS.NET@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "DC=M.ROOT-SERVERS.NET,DC=ROOTDNSSERVERS,CN=MICROSOFTDNS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "b5b169b1-2e82-4d4f-8ed6-1d2dceed9238",
+        "name": "M.ROOT-SERVERS.NET@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "960c9437-0bae-4c98-b9a3-82abc73eb52e",
+      "Name": "DFSR-GLOBALSETTINGS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DFSR-GLOBALSETTINGS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "960c9437-0bae-4c98-b9a3-82abc73eb52e",
+        "name": "DFSR-GLOBALSETTINGS@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "696b44f4-9cc5-458a-9e06-9002c092257b",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "696b44f4-9cc5-458a-9e06-9002c092257b",
+      "Name": "DOMAIN SYSTEM VOLUME@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DOMAIN SYSTEM VOLUME,CN=DFSR-GLOBALSETTINGS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "696b44f4-9cc5-458a-9e06-9002c092257b",
+        "name": "DOMAIN SYSTEM VOLUME@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "880207a5-750f-42f4-b8f7-0a9763ddb4cd",
+          "ObjectType": "Container"
+        },
+        {
+          "ObjectIdentifier": "df7d2e50-88f5-448c-8e38-48ca2544ddb9",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "880207a5-750f-42f4-b8f7-0a9763ddb4cd",
+      "Name": "CONTENT@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=CONTENT,CN=DOMAIN SYSTEM VOLUME,CN=DFSR-GLOBALSETTINGS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "880207a5-750f-42f4-b8f7-0a9763ddb4cd",
+        "name": "CONTENT@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "e7be21be-4b8c-4cb4-8e61-81f28e54dbe6",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "e7be21be-4b8c-4cb4-8e61-81f28e54dbe6",
+      "Name": "SYSVOL SHARE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=SYSVOL SHARE,CN=CONTENT,CN=DOMAIN SYSTEM VOLUME,CN=DFSR-GLOBALSETTINGS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e7be21be-4b8c-4cb4-8e61-81f28e54dbe6",
+        "name": "SYSVOL SHARE@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "df7d2e50-88f5-448c-8e38-48ca2544ddb9",
+      "Name": "TOPOLOGY@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=TOPOLOGY,CN=DOMAIN SYSTEM VOLUME,CN=DFSR-GLOBALSETTINGS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "df7d2e50-88f5-448c-8e38-48ca2544ddb9",
+        "name": "TOPOLOGY@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "a780bd2e-d33e-4f11-a5b0-fb9dc3413218",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "a780bd2e-d33e-4f11-a5b0-fb9dc3413218",
+      "Name": "DC-CURSE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DC-CURSE,CN=TOPOLOGY,CN=DOMAIN SYSTEM VOLUME,CN=DFSR-GLOBALSETTINGS,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "a780bd2e-d33e-4f11-a5b0-fb9dc3413218",
+        "name": "DC-CURSE@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "77ce9168-62ce-490c-a064-fb464e65ea20",
+      "Name": "DFSR-LOCALSETTINGS@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DFSR-LOCALSETTINGS,CN=DC-CURSE,OU=DOMAIN CONTROLLERS,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "77ce9168-62ce-490c-a064-fb464e65ea20",
+        "name": "DFSR-LOCALSETTINGS@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "5af7991b-3490-4c82-bb3e-054c96a38519",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "5af7991b-3490-4c82-bb3e-054c96a38519",
+      "Name": "DOMAIN SYSTEM VOLUME@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DOMAIN SYSTEM VOLUME,CN=DFSR-LOCALSETTINGS,CN=DC-CURSE,OU=DOMAIN CONTROLLERS,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "5af7991b-3490-4c82-bb3e-054c96a38519",
+        "name": "DOMAIN SYSTEM VOLUME@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": [
+        {
+          "ObjectIdentifier": "08a2ca43-75ce-45c6-94ab-c0581d8bccfd",
+          "ObjectType": "Container"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "08a2ca43-75ce-45c6-94ab-c0581d8bccfd",
+      "Name": "SYSVOL SUBSCRIPTION@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=SYSVOL SUBSCRIPTION,CN=DOMAIN SYSTEM VOLUME,CN=DFSR-LOCALSETTINGS,CN=DC-CURSE,OU=DOMAIN CONTROLLERS,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "08a2ca43-75ce-45c6-94ab-c0581d8bccfd",
+        "name": "SYSVOL SUBSCRIPTION@JJK.LOCAL",
+        "whencreated": 1728418871,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "c49c0611-34a7-4f8d-8e21-9bf8b29d7367",
+      "Name": "MACHINE@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=MACHINE,CN={39C4F1D7-C8B4-47BA-99D7-85092B6E0055},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "c49c0611-34a7-4f8d-8e21-9bf8b29d7367",
+        "name": "MACHINE@JJK.LOCAL",
+        "whencreated": 1737670362,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    },
+    {
+      "ObjectIdentifier": "877a53e6-8be1-41a4-a1c5-b87f1682b097",
+      "Name": "USER@JJK.LOCAL",
+      "ObjectType": "Container",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=USER,CN={39C4F1D7-C8B4-47BA-99D7-85092B6E0055},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "877a53e6-8be1-41a4-a1c5-b87f1682b097",
+        "name": "USER@JJK.LOCAL",
+        "whencreated": 1737670362,
+        "highvalue": false
+      },
+      "Aces": [],
+      "ChildObjects": []
+    }
+  ],
+  "meta": {
+    "methods": 0,
+    "type": "containers",
+    "version": 5,
+    "count": 153
+  }
+}

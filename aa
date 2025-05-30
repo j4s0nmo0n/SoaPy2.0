@@ -1,0 +1,1069 @@
+
+{
+     "distinguishedName": "DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743",
+            "objectGUID": "1cdc41a5-31bb-f849-80bf-9ce84709792a",
+},
+{
+     "distinguishedName": "CN=Users,DC=jjk,DC=local",
+            "objectGUID": "44e718c8-8e57-e94c-b9cb-58e590afecff",
+},
+{
+     "distinguishedName": "CN=Computers,DC=jjk,DC=local",
+            "objectGUID": "a4f2cac5-bee0-9543-9b1a-68b5ec28c508",
+},
+{
+     "distinguishedName": "OU=Domain Controllers,DC=jjk,DC=local",
+            "objectGUID": "8daa7729-cb0f-da43-8eb4-9b0048c78eb7",
+},
+{
+     "distinguishedName": "CN=System,DC=jjk,DC=local",
+            "objectGUID": "d0675327-91cb-7b41-9048-4fcba9ac02f2",
+},
+{
+     "distinguishedName": "CN=LostAndFound,DC=jjk,DC=local",
+            "objectGUID": "94b3a3b4-ca7c-444f-9fd7-bc0e4a473918",
+},
+{
+     "distinguishedName": "CN=Infrastructure,DC=jjk,DC=local",
+            "objectGUID": "2cb6fbe8-d364-3e4a-8cea-fbf08df735b5",
+},
+{
+     "distinguishedName": "CN=ForeignSecurityPrincipals,DC=jjk,DC=local",
+            "objectGUID": "f1fef929-86dd-d14d-a131-e7d1ab1d5ff9",
+},
+{
+     "distinguishedName": "CN=Program Data,DC=jjk,DC=local",
+            "objectGUID": "3f8d39d9-52e2-f348-81d6-f2590a96fb48",
+},
+{
+     "distinguishedName": "CN=Microsoft,CN=Program Data,DC=jjk,DC=local",
+            "objectGUID": "4eae185a-4c8a-9949-9ebd-6487f000490a",
+},
+{
+     "distinguishedName": "CN=Managed Service Accounts,DC=jjk,DC=local",
+            "objectGUID": "be5411ad-7239-1748-bb9b-c64ee5b92084",
+},
+{
+     "distinguishedName": "CN=WinsockServices,CN=System,DC=jjk,DC=local",
+            "objectGUID": "644a8131-0181-9e43-91ee-2671d077acca",
+},
+{
+     "distinguishedName": "CN=RpcServices,CN=System,DC=jjk,DC=local",
+            "objectGUID": "f8c759a1-ae77-1345-884b-ddcac825eef8",
+},
+{
+     "distinguishedName": "CN=FileLinks,CN=System,DC=jjk,DC=local",
+            "objectGUID": "af784729-324f-b045-b6b1-4feb811e6a75",
+},
+{
+     "distinguishedName": "CN=ObjectMoveTable,CN=FileLinks,CN=System,DC=jjk,DC=local",
+            "objectGUID": "b787bc01-47e8-7a42-84fd-e207f35ec563",
+},
+{
+     "distinguishedName": "CN=Default Domain Policy,CN=System,DC=jjk,DC=local",
+            "objectGUID": "6ada78ba-2709-6646-96ee-74eb743d009e",
+},
+{
+     "distinguishedName": "CN=AppCategories,CN=Default Domain Policy,CN=System,DC=jjk,DC=local",
+            "objectGUID": "1b9d8919-08d3-2246-9e89-dd32c19c4d69",
+},
+{
+     "distinguishedName": "CN=Meetings,CN=System,DC=jjk,DC=local",
+            "objectGUID": "4f34aa4e-21ed-ff4f-b745-90f6e14ac533",
+},
+{
+     "distinguishedName": "CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "9389c20d-235f-3f46-8614-25973dcf05a2",
+},
+{
+     "distinguishedName": "CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "d954c795-59a3-f346-8ebb-ff60d09f9e9b",
+},
+{
+     "distinguishedName": "CN=User,CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "acb54295-bd3a-0642-ba39-a059bc457a12",
+},
+{
+     "distinguishedName": "CN=Machine,CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "6e1f290d-6fcc-1945-bf81-ed49f548f83d",
+},
+{
+     "distinguishedName": "CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "fc0197d2-cf7f-ce46-9fe3-1b0feec1b684",
+},
+{
+     "distinguishedName": "CN=User,CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "fa7b4809-8d32-8044-9b98-59dff5a27ddb",
+},
+{
+     "distinguishedName": "CN=Machine,CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "01630e79-e29a-bc4b-a709-dd4966ebd29a",
+},
+{
+     "distinguishedName": "CN=RAS and IAS Servers Access Check,CN=System,DC=jjk,DC=local",
+            "objectGUID": "a3fecd1b-cb2f-c243-8cf9-2c21bb12560a",
+},
+{
+     "distinguishedName": "CN=File Replication Service,CN=System,DC=jjk,DC=local",
+            "objectGUID": "2621d2ac-c109-f046-a6ad-5158a58fc0f3",
+},
+{
+     "distinguishedName": "CN=Dfs-Configuration,CN=System,DC=jjk,DC=local",
+            "objectGUID": "5192542c-80d0-c047-aee5-dba6425f53b1",
+},
+{
+     "distinguishedName": "CN=AdminSDHolder,CN=System,DC=jjk,DC=local",
+            "objectGUID": "7b2d009e-4fb1-5d4e-b845-f70dcf980e4b",
+},
+{
+     "distinguishedName": "CN=ComPartitions,CN=System,DC=jjk,DC=local",
+            "objectGUID": "ebd70768-f5a2-9047-a505-e6ca7d302e90",
+},
+{
+     "distinguishedName": "CN=ComPartitionSets,CN=System,DC=jjk,DC=local",
+            "objectGUID": "1bdfe3ed-e910-7f4c-b3a5-b46febe54252",
+},
+{
+     "distinguishedName": "CN=WMIPolicy,CN=System,DC=jjk,DC=local",
+            "objectGUID": "35028841-fb7f-ba48-b9be-a90cfc473b85",
+},
+{
+     "distinguishedName": "CN=PolicyTemplate,CN=WMIPolicy,CN=System,DC=jjk,DC=local",
+            "objectGUID": "aed87b14-c0c6-bf4d-8591-798efeb07ca9",
+},
+{
+     "distinguishedName": "CN=SOM,CN=WMIPolicy,CN=System,DC=jjk,DC=local",
+            "objectGUID": "2efee22e-d17e-1b46-9783-4607d512c045",
+},
+{
+     "distinguishedName": "CN=PolicyType,CN=WMIPolicy,CN=System,DC=jjk,DC=local",
+            "objectGUID": "942dedda-7f2c-834f-88e6-fb635ed9f18a",
+},
+{
+     "distinguishedName": "CN=WMIGPO,CN=WMIPolicy,CN=System,DC=jjk,DC=local",
+            "objectGUID": "2f96f4c9-3118-5345-8336-0fc66a58cead",
+},
+{
+     "distinguishedName": "CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "0a4d5142-e545-1545-a9f1-d5b8a0efa3ff",
+},
+{
+     "distinguishedName": "CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "0a085979-7b84-6f41-a2b3-56bf447c4756",
+},
+{
+     "distinguishedName": "CN=ab402345-d3c3-455d-9ff7-40268a1099b6,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "222ed1ae-ba5e-d74f-abaf-9cd8a97a0fe0",
+},
+{
+     "distinguishedName": "CN=bab5f54d-06c8-48de-9b87-d78b796564e4,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "d42f5049-6574-ad47-b53b-8bd46f0ac296",
+},
+{
+     "distinguishedName": "CN=f3dd09dd-25e8-4f9c-85df-12d6d2f2f2f5,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "6aa9a702-ab2c-b845-950e-5c63d736bcf1",
+},
+{
+     "distinguishedName": "CN=2416c60a-fe15-4d7a-a61e-dffd5df864d3,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "d34c85d7-e417-ab48-b8c4-f49514238e99",
+},
+{
+     "distinguishedName": "CN=7868d4c8-ac41-4e05-b401-776280e8e9f1,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "2cfbd3e4-ded2-6d41-b9c1-23d13e916800",
+},
+{
+     "distinguishedName": "CN=860c36ed-5241-4c62-a18b-cf6ff9994173,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "e1288188-aad8-994f-93b6-ac2cc0c1bcd6",
+},
+{
+     "distinguishedName": "CN=0e660ea3-8a5e-4495-9ad7-ca1bd4638f9e,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "3bd9732c-442f-a943-8ec1-9ff1df326c44",
+},
+{
+     "distinguishedName": "CN=a86fe12a-0f62-4e2a-b271-d27f601f8182,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "2f4a574b-f7fe-4045-8d80-133d5a8feabd",
+},
+{
+     "distinguishedName": "CN=d85c0bfd-094f-4cad-a2b5-82ac9268475d,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "a15cb63f-30f2-954c-b4a1-e409544b406b",
+},
+{
+     "distinguishedName": "CN=6ada9ff7-c9df-45c1-908e-9fef2fab008a,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "fb7a03aa-5c9f-9d42-8d02-86cbf2743440",
+},
+{
+     "distinguishedName": "CN=10b3ad2a-6883-4fa7-90fc-6377cbdc1b26,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "9a36bf67-6912-974e-97a5-e42b7728d651",
+},
+{
+     "distinguishedName": "CN=98de1d3e-6611-443b-8b4e-f4337f1ded0b,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "95426799-dda7-c046-9075-3ca08425d5ae",
+},
+{
+     "distinguishedName": "CN=f607fd87-80cf-45e2-890b-6cf97ec0e284,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "1fe99d4b-4aea-2049-b627-9770db93c210",
+},
+{
+     "distinguishedName": "CN=9cac1f66-2167-47ad-a472-2a13251310e4,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "1821440e-2906-2f4b-98b6-750906c0ab1e",
+},
+{
+     "distinguishedName": "CN=6ff880d6-11e7-4ed1-a20f-aac45da48650,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "35a3ce9e-6e92-4e43-8b13-7fbb918276ea",
+},
+{
+     "distinguishedName": "CN=446f24ea-cfd5-4c52-8346-96e170bcb912,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "37cf6127-bed4-a24c-974a-337cc2e4a97c",
+},
+{
+     "distinguishedName": "CN=51cba88b-99cf-4e16-bef2-c427b38d0767,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "8997f9e3-2f8f-5745-9170-88d62edb4c03",
+},
+{
+     "distinguishedName": "CN=a3dac986-80e7-4e59-a059-54cb1ab43cb9,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "5caa5a56-4879-b943-a6c2-6de10f07e69c",
+},
+{
+     "distinguishedName": "CN=293f0798-ea5c-4455-9f5d-45f33a30703b,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "97ce2931-f764-814c-a822-84e928a06a30",
+},
+{
+     "distinguishedName": "CN=5c82b233-75fc-41b3-ac71-c69592e6bf15,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "0ce27ae0-dfb7-5f44-b46d-224ed5aa878f",
+},
+{
+     "distinguishedName": "CN=7ffef925-405b-440a-8d58-35e8cd6e98c3,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "d7412c6a-36e2-f34d-a7b1-9ea0ce4079c9",
+},
+{
+     "distinguishedName": "CN=4dfbb973-8a62-4310-a90c-776e00f83222,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "f5c75e8c-eba1-194f-b645-760c263fddd6",
+},
+{
+     "distinguishedName": "CN=8437C3D8-7689-4200-BF38-79E4AC33DFA0,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "34fcc77d-aa53-0246-8f01-092ee7f15c5b",
+},
+{
+     "distinguishedName": "CN=7cfb016c-4f87-4406-8166-bd9df943947f,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "4f966ee6-2845-f647-9738-abda9a550b05",
+},
+{
+     "distinguishedName": "CN=f7ed4553-d82b-49ef-a839-2f38a36bb069,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "6646ede8-c076-4c4e-86d7-2e36fbc21478",
+},
+{
+     "distinguishedName": "CN=8ca38317-13a4-4bd4-806f-ebed6acb5d0c,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "e28ca8bc-c4d6-954e-89ff-73269ae7d78a",
+},
+{
+     "distinguishedName": "CN=3c784009-1f57-4e2a-9b04-6915c9e71961,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "efea4765-cb33-844f-9579-733cf7d4ff2d",
+},
+{
+     "distinguishedName": "CN=6bcd5678-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "f10fb13d-f2f0-9d4e-9979-f109ddfb6f88",
+},
+{
+     "distinguishedName": "CN=6bcd5679-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "52036782-9915-2147-9722-c6eda80d493c",
+},
+{
+     "distinguishedName": "CN=6bcd567a-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "2a8adccc-2b5d-e840-a770-c805ec9211f5",
+},
+{
+     "distinguishedName": "CN=6bcd567b-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "bd3bb0ac-9d3a-2c48-8dae-560a8d147580",
+},
+{
+     "distinguishedName": "CN=6bcd567c-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "bbdff091-1928-d84c-8f97-0aaa1320692e",
+},
+{
+     "distinguishedName": "CN=6bcd567d-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "cea8f442-71fc-f64c-a445-995581762c9e",
+},
+{
+     "distinguishedName": "CN=6bcd567e-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "423aa6b0-33ac-494c-8c21-48d34615bc4c",
+},
+{
+     "distinguishedName": "CN=6bcd567f-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "3da68396-6915-104b-9e5b-64f665ddc99a",
+},
+{
+     "distinguishedName": "CN=6bcd5680-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "8b470eab-1bbc-4e4c-b51a-7d63d38fb6e9",
+},
+{
+     "distinguishedName": "CN=6bcd5681-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "d69720fa-a00d-cf47-b586-f6cd992a00a7",
+},
+{
+     "distinguishedName": "CN=6bcd5682-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "e635399e-d8fe-b049-873c-07f913795445",
+},
+{
+     "distinguishedName": "CN=6bcd5683-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "aef505c1-ddfe-4c46-b777-c3e5b53afb62",
+},
+{
+     "distinguishedName": "CN=6bcd5684-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "b9043fcc-6965-7a47-a786-9e39f9c3d580",
+},
+{
+     "distinguishedName": "CN=6bcd5685-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "4c38d1d7-2e38-ee44-bc44-bd5306e7252b",
+},
+{
+     "distinguishedName": "CN=6bcd5686-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "4c5df47b-52aa-3143-931a-d6c88fc9d4e1",
+},
+{
+     "distinguishedName": "CN=6bcd5687-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "7cf32a81-aca7-4842-8ce3-1b9835dc5571",
+},
+{
+     "distinguishedName": "CN=6bcd5688-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "32371594-274a-164c-b947-f4f7e39a5186",
+},
+{
+     "distinguishedName": "CN=6bcd5689-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "3b9519b5-437e-6d40-a308-12b9dae19748",
+},
+{
+     "distinguishedName": "CN=6bcd568a-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "1e80a801-de4b-2d43-97b7-d12af3fd4dd0",
+},
+{
+     "distinguishedName": "CN=6bcd568b-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "8acc3f27-1c27-4749-b2f5-1ba4ce1327da",
+},
+{
+     "distinguishedName": "CN=6bcd568c-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "fd7ded6a-d5c9-7a46-b48f-334dfd80969f",
+},
+{
+     "distinguishedName": "CN=6bcd568d-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "022670a1-e1cf-af42-abdc-2aedfc3eb0bf",
+},
+{
+     "distinguishedName": "CN=3051c66f-b332-4a73-9a20-2d6a7d6e6a1c,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "dd1aa08b-6c05-7d4b-8d55-8794fda9d6c9",
+},
+{
+     "distinguishedName": "CN=3e4f4182-ac5d-4378-b760-0eab2de593e2,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "083c7bad-43d6-9d4a-b013-ba7835c6f2ef",
+},
+{
+     "distinguishedName": "CN=c4f17608-e611-11d6-9793-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "bf7c0c4d-6a83-584f-b804-6a6d4f9c3607",
+},
+{
+     "distinguishedName": "CN=13d15cf0-e6c8-11d6-9793-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "cead3536-3898-8c44-8a4f-5924fd4d93a7",
+},
+{
+     "distinguishedName": "CN=8ddf6913-1c7b-4c59-a5af-b9ca3b3d2c4c,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "bf185b78-022e-9e4b-b608-9cfb92274ee5",
+},
+{
+     "distinguishedName": "CN=dda1d01d-4bd7-4c49-a184-46f9241b560e,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "e96301d9-7e03-0344-a161-5efc65f88dde",
+},
+{
+     "distinguishedName": "CN=a1789bfb-e0a2-4739-8cc0-e77d892d080a,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "394f3cb8-ffb6-7a44-acba-001a16594736",
+},
+{
+     "distinguishedName": "CN=61b34cb0-55ee-4be9-b595-97810b92b017,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "92c005cc-e678-254c-88e9-d721ebd25f40",
+},
+{
+     "distinguishedName": "CN=57428d75-bef7-43e1-938b-2e749f5a8d56,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "1b0dea30-30fb-bb40-a71e-8b51b3613781",
+},
+{
+     "distinguishedName": "CN=ebad865a-d649-416f-9922-456b53bbb5b8,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "bcf1f2ca-608e-4347-a1f3-d49f46e16627",
+},
+{
+     "distinguishedName": "CN=0b7fb422-3609-4587-8c2e-94b10f67d1bf,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "cd8b47f6-9f63-6f4d-85f5-7a0dbf166918",
+},
+{
+     "distinguishedName": "CN=2951353e-d102-4ea5-906c-54247eeec741,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "52d32a8c-3c15-c743-b2e3-d8ba456b800d",
+},
+{
+     "distinguishedName": "CN=71482d49-8870-4cb3-a438-b6fc9ec35d70,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "3f269157-2f3f-ad47-80f8-baa55d133f5d",
+},
+{
+     "distinguishedName": "CN=aed72870-bf16-4788-8ac7-22299c8207f1,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "57077ffe-3911-344b-bfa2-734bf5cf9fa5",
+},
+{
+     "distinguishedName": "CN=f58300d1-b71a-4DB6-88a1-a8b9538beaca,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "4416e205-2287-2142-b6ed-de751e3b0348",
+},
+{
+     "distinguishedName": "CN=231fb90b-c92a-40c9-9379-bacfc313a3e3,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "e434d1d1-87b1-db48-a770-21e28de8d550",
+},
+{
+     "distinguishedName": "CN=4aaabc3a-c416-4b9c-a6bb-4b453ab1c1f0,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "b2cb25b1-7ac4-ef40-8aa7-f97c5962d61d",
+},
+{
+     "distinguishedName": "CN=9738c400-7795-4d6e-b19d-c16cd6486166,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "dab23639-7105-2b4b-aa96-4e7b5c6ed823",
+},
+{
+     "distinguishedName": "CN=de10d491-909f-4fb0-9abb-4b7865c0fe80,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "1cedb74b-8a16-3540-885b-95ce0cb87155",
+},
+{
+     "distinguishedName": "CN=b96ed344-545a-4172-aa0c-68118202f125,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "789a7e19-c575-624b-87ee-8e996c01a2a2",
+},
+{
+     "distinguishedName": "CN=4c93ad42-178a-4275-8600-16811d28f3aa,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "5aa6c97d-a90d-b141-9121-1acfc691a906",
+},
+{
+     "distinguishedName": "CN=c88227bc-fcca-4b58-8d8a-cd3d64528a02,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "6ca73219-0e0f-f249-ac40-163158fbc3a5",
+},
+{
+     "distinguishedName": "CN=5e1574f6-55df-493e-a671-aaeffca6a100,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "3f21efdf-74a1-2249-aa60-c41fabc6c28a",
+},
+{
+     "distinguishedName": "CN=d262aae8-41f7-48ed-9f35-56bbb677573d,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "c7bf49f0-1775-a74a-bb40-a94522462e9f",
+},
+{
+     "distinguishedName": "CN=82112ba0-7e4c-4a44-89d9-d46c9612bf91,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "e0f1c0e4-ec70-2343-a41d-ad99f7cdbbe0",
+},
+{
+     "distinguishedName": "CN=c3c927a6-cc1d-47c0-966b-be8f9b63d991,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "f5b893e7-d4ff-9444-8452-2745ea9ad363",
+},
+{
+     "distinguishedName": "CN=54afcfb9-637a-4251-9f47-4d50e7021211,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "703db3f3-dbee-3d46-bc57-a4074b19f572",
+},
+{
+     "distinguishedName": "CN=f4728883-84dd-483c-9897-274f2ebcf11e,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "01fb1f16-e527-bd49-9a21-937e8f62e7e9",
+},
+{
+     "distinguishedName": "CN=ff4f9d27-7157-4cb0-80a9-5d6f2b14c8ff,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "02c7b6ca-6d40-0340-b6bd-98eee819d963",
+},
+{
+     "distinguishedName": "CN=83C53DA7-427E-47A4-A07A-A324598B88F7,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "54d6dcee-9a99-fe42-8421-d981c0482467",
+},
+{
+     "distinguishedName": "CN=C81FC9CC-0130-4FD1-B272-634D74818133,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "8a7ed3a3-22ea-b14c-bdcb-fb7910821987",
+},
+{
+     "distinguishedName": "CN=E5F9E791-D96D-4FC9-93C9-D53E1DC439BA,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "4bbac859-d24a-7b44-a1ce-7db9bc2e5faa",
+},
+{
+     "distinguishedName": "CN=e6d5fd00-385d-4e65-b02d-9da3493ed850,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "6ceb716e-4160-3d4d-87e7-4849d7481d33",
+},
+{
+     "distinguishedName": "CN=3a6b3fbf-3168-4312-a10d-dd5b3393952d,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "c4f88da9-e8cd-124e-99aa-7642872778ff",
+},
+{
+     "distinguishedName": "CN=7F950403-0AB3-47F9-9730-5D7B0269F9BD,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "8ba3a8f8-b08f-544d-b113-efba50a49311",
+},
+{
+     "distinguishedName": "CN=434bb40d-dbc9-4fe7-81d4-d57229f7b080,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "4934c9b2-6849-5843-8062-7faac4260009",
+},
+{
+     "distinguishedName": "CN=A0C238BA-9E30-4EE6-80A6-43F731E9A5CD,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "9f8587af-0b06-8a47-bccb-a3ef8bd556f2",
+},
+{
+     "distinguishedName": "CN=Windows2003Update,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "5cb32601-f856-3e4e-9c73-4d19e2429916",
+},
+{
+     "distinguishedName": "CN=ActiveDirectoryUpdate,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "bb1f4f83-1407-9245-9bcc-a6868a399560",
+},
+{
+     "distinguishedName": "CN=PSPs,CN=System,DC=jjk,DC=local",
+            "objectGUID": "d0bacb8a-456c-1643-ae16-2fa8221efc51",
+},
+{
+     "distinguishedName": "CN=Administrateur,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-500",
+            "objectGUID": "ecc21b73-e563-b743-b65e-eaa5f2563a1c",
+},
+{
+     "distinguishedName": "CN=Invité,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-501",
+            "objectGUID": "57caea3b-a8d2-f14a-96cc-ebb57fc4af0b",
+},
+{
+     "distinguishedName": "CN=Utilisateurs DHCP,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1000",
+            "objectGUID": "7026aef9-37b9-704d-b431-37aec199b079",
+},
+{
+     "distinguishedName": "CN=Administrateurs DHCP,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1001",
+            "objectGUID": "0107749e-1ce6-e94c-b550-1e4705e9bdec",
+},
+{
+     "distinguishedName": "CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32",
+            "objectGUID": "46e5cc75-69c7-4148-8053-3f97227e85dc",
+},
+{
+     "distinguishedName": "CN=Administrateurs,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-544 Well known sid: Administrators",
+            "objectGUID": "08c0f7fb-4f38-8c4e-805f-cdf6e4699098",
+},
+{
+     "distinguishedName": "CN=Utilisateurs,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-545 Well known sid: Users",
+            "objectGUID": "4b4cfbf3-c5a8-6742-8eec-0a95afc9a70b",
+},
+{
+     "distinguishedName": "CN=S-1-5-4,CN=ForeignSecurityPrincipals,DC=jjk,DC=local",
+             "objectSid": "S-1-5-4 Well known sid: Interactive",
+            "objectGUID": "d11bfb20-1f36-8043-9973-c21d48e7d54f",
+},
+{
+     "distinguishedName": "CN=S-1-5-11,CN=ForeignSecurityPrincipals,DC=jjk,DC=local",
+             "objectSid": "S-1-5-11 Well known sid: Authenticated Users",
+            "objectGUID": "15f56c52-5171-6640-8d05-6124ffc1da22",
+},
+{
+     "distinguishedName": "CN=Invités,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-546 Well known sid: Guests",
+            "objectGUID": "00889c17-3d0a-4a46-accb-5c026ee24df9",
+},
+{
+     "distinguishedName": "CN=Opérateurs d’impression,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-550 Well known sid: Print Operators",
+            "objectGUID": "d5004183-889f-9a45-9267-5e09f51ec781",
+},
+{
+     "distinguishedName": "CN=Opérateurs de sauvegarde,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-551 Well known sid: Backup Operators",
+            "objectGUID": "876b91a5-abbe-bd4c-8523-865fc9137eff",
+},
+{
+     "distinguishedName": "CN=Duplicateurs,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-552 Well known sid: Replicators",
+            "objectGUID": "81acd3c6-a52c-0944-a973-703e5f0ee7f5",
+},
+{
+     "distinguishedName": "CN=Utilisateurs du Bureau à distance,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-555 Well known sid: BUILTIN\Remote Desktop Users",
+            "objectGUID": "14e45a75-3891-594b-986f-8b9cec0a4822",
+},
+{
+     "distinguishedName": "CN=Opérateurs de configuration réseau,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-556 Well known sid: BUILTIN\Network Configuration Operators",
+            "objectGUID": "9b9ec968-fc10-f045-9db7-440d1ad1a68a",
+},
+{
+     "distinguishedName": "CN=Utilisateurs de l’Analyseur de performances,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-558 Well known sid: BUILTIN\Performance Monitor Users",
+            "objectGUID": "ec42f45b-70fc-ce47-8888-28cb07e1f935",
+},
+{
+     "distinguishedName": "CN=Utilisateurs du journal de performances,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-559 Well known sid: BUILTIN\Performance Log Users",
+            "objectGUID": "7b0d530d-57c1-6a4e-a9ed-b7508a23056a",
+},
+{
+     "distinguishedName": "CN=Utilisateurs du modèle COM distribué,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-562 Well known sid: BUILTIN\Distributed COM Users",
+            "objectGUID": "62280cd0-e80f-404e-98f9-9229f5943bd6",
+},
+{
+     "distinguishedName": "CN=IIS_IUSRS,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-568",
+            "objectGUID": "2626230d-008e-d64a-a85a-59145b517c02",
+},
+{
+     "distinguishedName": "CN=Opérateurs de chiffrement,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-569 Well known sid: BUILTIN\Cryptographic Operators",
+            "objectGUID": "21710678-688a-9140-9a49-632f81f1b675",
+},
+{
+     "distinguishedName": "CN=Lecteurs des journaux d’événements,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-573 Well known sid: BUILTIN\Event Log Readers",
+            "objectGUID": "215e6316-a8cd-5f49-a2d7-c4c4f6f05e2b",
+},
+{
+     "distinguishedName": "CN=Accès DCOM service de certificats,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-574 Well known sid: BUILTIN\Certificate Service DCOM Access",
+            "objectGUID": "7fea064f-b7ea-a14d-a386-d3e5a63d880c",
+},
+{
+     "distinguishedName": "CN=Serveurs Accès Distant RDS,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-575 Well known sid: BUILTIN\RDS Remote Access Servers",
+            "objectGUID": "43a2947e-5dc5-9a45-86d9-8c5f79c0388c",
+},
+{
+     "distinguishedName": "CN=Serveurs RDS Endpoint,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-576 Well known sid: BUILTIN\RDS Endpoint Servers",
+            "objectGUID": "80d3d013-7eb2-7846-94d2-c759daf971f4",
+},
+{
+     "distinguishedName": "CN=Serveurs Gestion RDS,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-577 Well known sid: BUILTIN\RDS Management Servers",
+            "objectGUID": "40e4a470-f3e6-7e4f-9e5e-be8f570ab541",
+},
+{
+     "distinguishedName": "CN=Administrateurs Hyper-V,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-578 Well known sid: BUILTIN\Hyper-V Administrators",
+            "objectGUID": "4ad2e1b9-5908-444a-b140-987a8c957fca",
+},
+{
+     "distinguishedName": "CN=Opérateurs d",assistance de contrôle d'accès,CN=Builtin,DC=jjk,DC=local',
+             "objectSid": "S-1-5-32-579 Well known sid: BUILTIN\Access Control Assistance Operators",
+            "objectGUID": "63d429ef-12db-204f-92b2-3125b4eff0aa",
+},
+{
+     "distinguishedName": "CN=Utilisateurs de gestion à distance,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-580 Well known sid: BUILTIN\Remote Management Users",
+            "objectGUID": "0679e1c3-0f23-9648-952f-53806a273682",
+},
+{
+     "distinguishedName": "CN=Storage Replica Administrators,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-582",
+            "objectGUID": "5c275f70-4692-364e-abcc-3626f4d871df",
+},
+{
+     "distinguishedName": "CN=Server,CN=System,DC=jjk,DC=local",
+            "objectGUID": "5d0bcdcc-c9e9-084b-a41d-b5829278147c",
+},
+{
+     "distinguishedName": "CN=DC-CURSE,OU=Domain Controllers,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1002",
+            "objectGUID": "fb27d759-8b2a-4d4d-bafa-19e5c38f2f09",
+},
+{
+     "distinguishedName": "CN=krbtgt,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-502",
+            "objectGUID": "ec81a6f4-c499-2e40-9704-f8b116b04130",
+},
+{
+     "distinguishedName": "CN=Ordinateurs du domaine,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-515",
+            "objectGUID": "d4fbf6c5-3685-374c-8381-b84964994b85",
+},
+{
+     "distinguishedName": "CN=Contrôleurs de domaine,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-516",
+            "objectGUID": "23ccb783-1e64-6f4b-b186-e9113eb33324",
+},
+{
+     "distinguishedName": "CN=Administrateurs du schéma,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-518",
+            "objectGUID": "15ad62bb-497a-6942-b66d-359d7c2ef294",
+},
+{
+     "distinguishedName": "CN=Administrateurs de l’entreprise,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-519",
+            "objectGUID": "42b68043-8d34-d142-b630-c917dbdc6417",
+},
+{
+     "distinguishedName": "CN=Éditeurs de certificats,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-517",
+            "objectGUID": "2745afb0-7bbc-5945-9bf3-bfa10a5db06d",
+},
+{
+     "distinguishedName": "CN=Admins du domaine,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-512",
+            "objectGUID": "e16bd4ca-5b28-0d49-a080-6d180c709e4c",
+},
+{
+     "distinguishedName": "CN=Utilisateurs du domaine,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-513",
+            "objectGUID": "d48e5783-999b-d54b-80f0-bd0f149a972e",
+},
+{
+     "distinguishedName": "CN=Invités du domaine,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-514",
+            "objectGUID": "d70e5c55-df2c-1b43-a58b-8b735e3068cc",
+},
+{
+     "distinguishedName": "CN=Propriétaires créateurs de la stratégie de groupe,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-520",
+            "objectGUID": "1e7bac9c-625f-0344-8a86-e63decda8e52",
+},
+{
+     "distinguishedName": "CN=Serveurs RAS et IAS,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-553",
+            "objectGUID": "df054e41-64e7-8f45-b33e-33a2cf002607",
+},
+{
+     "distinguishedName": "CN=Opérateurs de serveur,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-549 Well known sid: Server Operators",
+            "objectGUID": "4ad16729-ea27-2e49-9ab5-c0e048d9ec5f",
+},
+{
+     "distinguishedName": "CN=Opérateurs de compte,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-548 Well known sid: Account Operators",
+            "objectGUID": "87028ee6-32f5-1946-87c3-f0d04f7ae387",
+},
+{
+     "distinguishedName": "CN=Accès compatible pré-Windows 2000,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-554 Well known sid: BUILTIN\Pre-Windows 2000 Compatible Access",
+            "objectGUID": "bfc7720e-d78b-4945-a9ca-80acb097b97d",
+},
+{
+     "distinguishedName": "CN=Générateurs d’approbations de forêt entrante,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-557 Well known sid: BUILTIN\Incoming Forest Trust Builders",
+            "objectGUID": "b565d4dc-fb2d-4743-95bb-3e6259cb46f6",
+},
+{
+     "distinguishedName": "CN=Groupe d’accès d’autorisation Windows,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-560 Well known sid: BUILTIN\Windows Authorization Access Group",
+            "objectGUID": "a87103d3-b427-b24b-af5d-64a6597777e0",
+},
+{
+     "distinguishedName": "CN=Serveurs de licences des services Terminal Server,CN=Builtin,DC=jjk,DC=local",
+             "objectSid": "S-1-5-32-561 Well known sid: BUILTIN\Terminal Server License Servers",
+            "objectGUID": "381bc7a8-0f21-2044-87d3-c1be413ddad8",
+},
+{
+     "distinguishedName": "CN=S-1-5-9,CN=ForeignSecurityPrincipals,DC=jjk,DC=local",
+             "objectSid": "S-1-5-9 Well known sid: Enterprise Domain Controllers",
+            "objectGUID": "2ff77447-0f13-c147-8ccb-982ea1e7d939",
+},
+{
+     "distinguishedName": "CN=6E157EDF-4E72-4052-A82A-EC3F91021A22,CN=Operations,CN=DomainUpdates,CN=System,DC=jjk,DC=local",
+            "objectGUID": "024da8ee-8d1e-ad4b-b131-f0ac88c82fda",
+},
+{
+     "distinguishedName": "CN=S-1-5-17,CN=ForeignSecurityPrincipals,DC=jjk,DC=local",
+             "objectSid": "S-1-5-17 Well known sid: This Organization",
+            "objectGUID": "5e6392b9-d32e-8345-9df6-b8f4fbee4cc6",
+},
+{
+     "distinguishedName": "CN=Groupe de réplication dont le mot de passe RODC est autorisé,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-571",
+            "objectGUID": "bb228748-58b0-ec49-999a-353c98eaeef2",
+},
+{
+     "distinguishedName": "CN=Groupe de réplication dont le mot de passe RODC est refusé,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-572",
+            "objectGUID": "b45788ed-0bf9-db46-b98b-480826adcba8",
+},
+{
+     "distinguishedName": "CN=Contrôleurs de domaine en lecture seule,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-521",
+            "objectGUID": "db5ba8e2-dacd-3b4c-a826-735d543b3fa8",
+},
+{
+     "distinguishedName": "CN=Contrôleurs de domaine d’entreprise en lecture seule,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-498",
+            "objectGUID": "1934a670-55f4-e841-ba74-ae5f0c8ea8e2",
+},
+{
+     "distinguishedName": "CN=Contrôleurs de domaine clonables,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-522",
+            "objectGUID": "a685c545-1322-d34f-bbc3-a9f1a5ef1b5c",
+},
+{
+     "distinguishedName": "CN=Protected Users,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-525",
+            "objectGUID": "039c4623-71e5-c24d-91d8-2478eb470053",
+},
+{
+     "distinguishedName": "CN=Administrateurs clés,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-526",
+            "objectGUID": "13898c4a-6e2a-5a4a-86bc-9f9341edc7a8",
+},
+{
+     "distinguishedName": "CN=Administrateurs clés Enterprise,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-527",
+            "objectGUID": "d2b7fcf3-c501-6a40-a349-4f7c8f89caa5",
+},
+{
+     "distinguishedName": "CN=RID Manager$,CN=System,DC=jjk,DC=local",
+            "objectGUID": "4e13bfd3-5306-6a4f-8b3b-62ea90eb405f",
+},
+{
+     "distinguishedName": "CN=RID Set,CN=DC-CURSE,OU=Domain Controllers,DC=jjk,DC=local",
+            "objectGUID": "17bc8311-b81f-b141-b5a7-982c6be8cbe8",
+},
+{
+     "distinguishedName": "CN=DnsAdmins,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1103",
+            "objectGUID": "f3ef83a2-2318-7648-bccd-114e5ae018d1",
+},
+{
+     "distinguishedName": "CN=DnsUpdateProxy,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1104",
+            "objectGUID": "9ddee491-1950-964f-9774-23e1c3f551cb",
+},
+{
+     "distinguishedName": "DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "b368f3fd-e0a7-fe44-959a-f4cec6e33acd",
+},
+{
+     "distinguishedName": "DC=@,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "10e7274c-813a-694a-8daa-a21943834455",
+},
+{
+     "distinguishedName": "DC=A.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "38596ecf-8469-3248-9d0a-2ad2adc1021a",
+},
+{
+     "distinguishedName": "DC=B.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "bd22876d-163d-624b-99ec-2eb06564f829",
+},
+{
+     "distinguishedName": "DC=C.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "756ff234-fb9d-6b40-9118-17dd36f7b42b",
+},
+{
+     "distinguishedName": "DC=D.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "b6a72228-c7a9-284d-bf3f-ac6f3ad41347",
+},
+{
+     "distinguishedName": "DC=E.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "60ca853e-95a4-6343-a8d7-4415cdaa3802",
+},
+{
+     "distinguishedName": "DC=F.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "dd569a87-3f22-fe4c-b4c2-a21a38d541d2",
+},
+{
+     "distinguishedName": "DC=G.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "c309b0ba-8aff-874b-a7e8-58e4fd46742d",
+},
+{
+     "distinguishedName": "DC=H.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "d35d4d86-429a-9e4b-bccb-a3ac6b41bed4",
+},
+{
+     "distinguishedName": "DC=I.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "5d9cbb6d-2231-d140-bc1c-d0d510e6058d",
+},
+{
+     "distinguishedName": "DC=J.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "1df07277-c5d3-9241-b9d1-a19edf5f3658",
+},
+{
+     "distinguishedName": "DC=K.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "e5e7b27a-c7c0-554c-ba1a-3a0d05a2876c",
+},
+{
+     "distinguishedName": "DC=L.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "02033979-9b60-014c-a030-5aeb65c85b78",
+},
+{
+     "distinguishedName": "DC=M.ROOT-SERVERS.NET,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=jjk,DC=local",
+            "objectGUID": "b169b1b5-822e-4f4d-8ed6-1d2dceed9238",
+},
+{
+     "distinguishedName": "CN=DFSR-GlobalSettings,CN=System,DC=jjk,DC=local",
+            "objectGUID": "37940c96-ae0b-984c-b9a3-82abc73eb52e",
+},
+{
+     "distinguishedName": "CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=jjk,DC=local",
+            "objectGUID": "f4446b69-c59c-8a45-9e06-9002c092257b",
+},
+{
+     "distinguishedName": "CN=Content,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=jjk,DC=local",
+            "objectGUID": "a5070288-0f75-f442-b8f7-0a9763ddb4cd",
+},
+{
+     "distinguishedName": "CN=SYSVOL Share,CN=Content,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=jjk,DC=local",
+            "objectGUID": "be21bee7-8c4b-b44c-8e61-81f28e54dbe6",
+},
+{
+     "distinguishedName": "CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=jjk,DC=local",
+            "objectGUID": "502e7ddf-f588-8c44-8e38-48ca2544ddb9",
+},
+{
+     "distinguishedName": "CN=DC-CURSE,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=jjk,DC=local",
+            "objectGUID": "2ebd80a7-3ed3-114f-a5b0-fb9dc3413218",
+},
+{
+     "distinguishedName": "CN=DFSR-LocalSettings,CN=DC-CURSE,OU=Domain Controllers,DC=jjk,DC=local",
+            "objectGUID": "6891ce77-ce62-0c49-a064-fb464e65ea20",
+},
+{
+     "distinguishedName": "CN=Domain System Volume,CN=DFSR-LocalSettings,CN=DC-CURSE,OU=Domain Controllers,DC=jjk,DC=local",
+            "objectGUID": "1b99f75a-9034-824c-bb3e-054c96a38519",
+},
+{
+     "distinguishedName": "CN=SYSVOL Subscription,CN=Domain System Volume,CN=DFSR-LocalSettings,CN=DC-CURSE,OU=Domain Controllers,DC=jjk,DC=local",
+            "objectGUID": "43caa208-ce75-c645-94ab-c0581d8bccfd",
+},
+{
+     "distinguishedName": "CN=yuji,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1105",
+            "objectGUID": "471b043f-7646-8e41-8d2a-56fb25f82d00",
+},
+{
+     "distinguishedName": "CN=yuta,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1106",
+            "objectGUID": "53d8f2c1-a237-bc4e-bb85-ea458e9594ea",
+},
+{
+     "distinguishedName": "CN=WSUS,CN=Computers,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1107",
+            "objectGUID": "1b49c591-62aa-3146-ab4b-f7a9981ee82b",
+},
+{
+     "distinguishedName": "CN=KYOTO,CN=Computers,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1108",
+            "objectGUID": "448f257c-e223-d24b-af98-c7755e1581e5",
+},
+{
+     "distinguishedName": "CN=ADSyncMSA9e7f9,CN=Managed Service Accounts,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1109",
+            "objectGUID": "ba5e55ff-d2f6-444d-8e80-2f1f78ea7b10",
+},
+{
+     "distinguishedName": "CN=ADSyncAdmins,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1110",
+            "objectGUID": "37dd50df-1480-8848-be3b-6574823b2f7e",
+},
+{
+     "distinguishedName": "CN=ADSyncOperators,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1111",
+            "objectGUID": "d131f061-d6f5-b24e-870d-773e4ad6b6b2",
+},
+{
+     "distinguishedName": "CN=ADSyncBrowse,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1112",
+            "objectGUID": "a243457e-04c1-b041-9b16-92895f43491f",
+},
+{
+     "distinguishedName": "CN=ADSyncPasswordSet,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1113",
+            "objectGUID": "87c32272-942a-bc4c-a86b-388763c8f3a9",
+},
+{
+     "distinguishedName": "CN=MSOL_9e7f98b071ed,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1114",
+            "objectGUID": "c62efa32-0372-6f49-a943-b136606ed5b2",
+},
+{
+     "distinguishedName": "CN=todo,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1115",
+            "objectGUID": "b594cf11-0c24-b54f-b23c-9be9b31bf086",
+},
+{
+     "distinguishedName": "CN=maki,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1116",
+            "objectGUID": "8fa08182-0a8f-3e43-a57b-a9e1ce9f53d1",
+},
+{
+     "distinguishedName": "CN=gojo,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1117",
+            "objectGUID": "a45f201e-541a-004f-86ad-c65134f1f1ac",
+},
+{
+     "distinguishedName": "CN=megumi,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1118",
+            "objectGUID": "7daec0d9-a538-e642-8508-550d4d5b3e8a",
+},
+{
+     "distinguishedName": "CN=mekamaru,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1119",
+            "objectGUID": "02a4cd2f-be2a-fc40-b9f2-59c97fab842e",
+},
+{
+     "distinguishedName": "CN=geto,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1120",
+            "objectGUID": "9d492829-0f25-6b4d-9dca-6bfc622bec08",
+},
+{
+     "distinguishedName": "CN=nanami,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1121",
+            "objectGUID": "69d17e49-58b8-3e42-aef1-eb16cd8953b3",
+},
+{
+     "distinguishedName": "CN=tengen,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1122",
+            "objectGUID": "c901e5be-bf96-6e48-93bf-dfd442f81bd2",
+},
+{
+     "distinguishedName": "CN={39C4F1D7-C8B4-47BA-99D7-85092B6E0055},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "20105ee6-ac0e-ea43-8a03-378af1220fd7",
+},
+{
+     "distinguishedName": "CN=Machine,CN={39C4F1D7-C8B4-47BA-99D7-85092B6E0055},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "11069cc4-a734-8d4f-8e21-9bf8b29d7367",
+},
+{
+     "distinguishedName": "CN=User,CN={39C4F1D7-C8B4-47BA-99D7-85092B6E0055},CN=Policies,CN=System,DC=jjk,DC=local",
+            "objectGUID": "e6537a87-e18b-a441-a1c5-b87f1682b097",
+},
+{
+     "distinguishedName": "CN=sukuna,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1123",
+            "objectGUID": "ac9c7c86-916b-c44d-9b3d-768123a39d1d",
+},
+{
+     "distinguishedName": "CN=nobara,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1124",
+            "objectGUID": "45eb485d-0f8e-2c46-b4dd-decd4a6b4a60",
+},
+{
+     "distinguishedName": "CN=Inumaki,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1125",
+            "objectGUID": "a7394a3c-2a0e-1242-8c09-7be751e39655",
+},
+{
+     "distinguishedName": "CN=panda,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1126",
+            "objectGUID": "86554ea7-5ee7-ba42-9615-e1217d33ef31",
+},
+{
+     "distinguishedName": "CN=rika,CN=Computers,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1129",
+            "objectGUID": "f1ca4379-78c7-e843-b473-c0d3597640a6",
+},
+{
+     "distinguishedName": "CN=Dagon,CN=Computers,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1130",
+            "objectGUID": "2e3baca2-39b3-8d47-ad0b-2aafaf81accb",
+},
+{
+     "distinguishedName": "CN=Choso,CN=Computers,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1131",
+            "objectGUID": "908b3f47-d0d2-c043-b7df-fe5fb9b55b6f",
+},
+{
+     "distinguishedName": "CN=Eso,CN=Computers,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1132",
+            "objectGUID": "1416977f-5176-ac41-8e4d-2c844c65bc16",
+},
+{
+     "distinguishedName": "CN=Kechizu,CN=Computers,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1133",
+            "objectGUID": "d0f8a846-1b14-f448-af2e-0a15d13d33a5",
+},
+{
+     "distinguishedName": "CN=hakari,CN=Users,DC=jjk,DC=local",
+             "objectSid": "S-1-5-21-824822487-3200100742-2773634743-1134",
+            "objectGUID": "db3ec8b2-aee9-7848-a96f-a9f4516c925a",
+},

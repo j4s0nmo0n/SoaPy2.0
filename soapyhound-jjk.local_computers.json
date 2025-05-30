@@ -1,0 +1,658 @@
+{
+  "data": [
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1002",
+      "Name": "DC-CURSE.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DC-CURSE,OU=DOMAIN CONTROLLERS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "59d727fb-2a8b-4d4d-bafa-19e5c38f2f09",
+        "samaccountname": "DC-CURSE$",
+        "dnshostname": "dc-curse.jjk.local",
+        "name": "DC-CURSE.JJK.LOCAL",
+        "whencreated": 1728418831,
+        "highvalue": false,
+        "serviceprincipalnames": [
+          "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/dc-curse.jjk.local",
+          "ldap/dc-curse.jjk.local/ForestDnsZones.jjk.local",
+          "ldap/dc-curse.jjk.local/DomainDnsZones.jjk.local",
+          "DNS/dc-curse.jjk.local",
+          "GC/dc-curse.jjk.local/jjk.local",
+          "RestrictedKrbHost/dc-curse.jjk.local",
+          "RestrictedKrbHost/DC-CURSE",
+          "RPC/a8ff5de7-c6be-47b0-848a-e1cb5b28a73c._msdcs.jjk.local",
+          "HOST/DC-CURSE/JJK",
+          "HOST/dc-curse.jjk.local/JJK",
+          "HOST/DC-CURSE",
+          "HOST/dc-curse.jjk.local",
+          "HOST/dc-curse.jjk.local/jjk.local",
+          "E3514235-4B06-11D1-AB04-00C04FC2DCD2/a8ff5de7-c6be-47b0-848a-e1cb5b28a73c/jjk.local",
+          "ldap/DC-CURSE/JJK",
+          "ldap/a8ff5de7-c6be-47b0-848a-e1cb5b28a73c._msdcs.jjk.local",
+          "ldap/dc-curse.jjk.local/JJK",
+          "ldap/DC-CURSE",
+          "ldap/dc-curse.jjk.local",
+          "ldap/dc-curse.jjk.local/jjk.local"
+        ],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": true,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": false,
+        "operatingsystem": "Windows Server 2022 Datacenter"
+      },
+      "Aces": [],
+      "AllowedToDelegate": [],
+      "MemberOf": [
+        "S-1-5-32-554",
+        "S-1-5-21-824822487-3200100742-2773634743-517"
+      ],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-516"
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1107",
+      "Name": "WSUS.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=WSUS,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "91c5491b-aa62-4631-ab4b-f7a9981ee82b",
+        "samaccountname": "WSUS$",
+        "dnshostname": "wsus.jjk.local",
+        "name": "WSUS.JJK.LOCAL",
+        "whencreated": 1728419925,
+        "highvalue": false,
+        "serviceprincipalnames": [
+          "WSMAN/wsus",
+          "WSMAN/wsus.jjk.local",
+          "RestrictedKrbHost/WSUS",
+          "HOST/WSUS",
+          "RestrictedKrbHost/wsus.jjk.local",
+          "HOST/wsus.jjk.local"
+        ],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": true,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": false,
+        "operatingsystem": "Windows Server 2019 Standard"
+      },
+      "Aces": [],
+      "AllowedToDelegate": [],
+      "MemberOf": [],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515"
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1108",
+      "Name": "KYOTO.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=KYOTO,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "7c258f44-23e2-4bd2-af98-c7755e1581e5",
+        "samaccountname": "KYOTO$",
+        "dnshostname": "kyoto.jjk.local",
+        "name": "KYOTO.JJK.LOCAL",
+        "whencreated": 1729025547,
+        "highvalue": false,
+        "serviceprincipalnames": [
+          "RestrictedKrbHost/KYOTO",
+          "HOST/KYOTO",
+          "RestrictedKrbHost/kyoto.jjk.local",
+          "HOST/kyoto.jjk.local"
+        ],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": false,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": false,
+        "operatingsystem": "Windows 11 Professionnel N"
+      },
+      "Aces": [],
+      "AllowedToDelegate": [
+        "cifs/kyoto.jjk.local",
+        "cifs/KYOTO",
+        "dns/wsus.jjk.local",
+        "dns/WSUS",
+        "cifs/wsus.jjk.local",
+        "cifs/WSUS"
+      ],
+      "MemberOf": [],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515"
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1109",
+      "Name": "ADSYNCMSA9E7F9.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=ADSYNCMSA9E7F9,CN=MANAGED SERVICE ACCOUNTS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "ff555eba-f6d2-4d44-8e80-2f1f78ea7b10",
+        "samaccountname": "ADSyncMSA9e7f9$",
+        "name": "ADSYNCMSA9E7F9.JJK.LOCAL",
+        "description": "Service account for the ADSync Service",
+        "whencreated": 1729717254,
+        "highvalue": false,
+        "serviceprincipalnames": [],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": false,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": false
+      },
+      "Aces": [],
+      "AllowedToDelegate": [],
+      "MemberOf": [
+        "S-1-5-32-545"
+      ],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515"
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1129",
+      "Name": "RIKA.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=RIKA,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "7943caf1-c778-43e8-b473-c0d3597640a6",
+        "samaccountname": "rika$",
+        "name": "RIKA.JJK.LOCAL",
+        "whencreated": 1739022598,
+        "highvalue": false,
+        "serviceprincipalnames": [],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": true,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": false
+      },
+      "Aces": [],
+      "AllowedToDelegate": [],
+      "MemberOf": [],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515"
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1130",
+      "Name": "DAGON.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=DAGON,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "a2ac3b2e-b339-478d-ad0b-2aafaf81accb",
+        "samaccountname": "Dagon$",
+        "name": "DAGON.JJK.LOCAL",
+        "whencreated": 1739022861,
+        "highvalue": false,
+        "serviceprincipalnames": [],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": false,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": true
+      },
+      "Aces": [],
+      "AllowedToDelegate": [
+        "http/wsus.jjk.local",
+        "http/WSUS",
+        "cifs/wsus.jjk.local",
+        "cifs/WSUS"
+      ],
+      "MemberOf": [],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515"
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1131",
+      "Name": "CHOSO.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=CHOSO,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "473f8b90-d2d0-43c0-b7df-fe5fb9b55b6f",
+        "samaccountname": "Choso$",
+        "name": "CHOSO.JJK.LOCAL",
+        "whencreated": 1739022925,
+        "highvalue": false,
+        "serviceprincipalnames": [],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": false,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": false
+      },
+      "Aces": [],
+      "AllowedToDelegate": [
+        "http/dc-curse.jjk.local/jjk.local",
+        "http/dc-curse.jjk.local",
+        "http/DC-CURSE",
+        "http/dc-curse.jjk.local/JJK",
+        "http/DC-CURSE/JJK"
+      ],
+      "MemberOf": [],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515"
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1132",
+      "Name": "ESO.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=ESO,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "7f971614-7651-41ac-8e4d-2c844c65bc16",
+        "samaccountname": "Eso$",
+        "name": "ESO.JJK.LOCAL",
+        "whencreated": 1739022940,
+        "highvalue": false,
+        "serviceprincipalnames": [],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": false,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": false
+      },
+      "Aces": [],
+      "AllowedToDelegate": [],
+      "MemberOf": [],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515"
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1133",
+      "Name": "KECHIZU.JJK.LOCAL",
+      "ObjectType": "Computer",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN=KECHIZU,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+        "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+        "objectguid": "46a8f8d0-141b-48f4-af2e-0a15d13d33a5",
+        "samaccountname": "Kechizu$",
+        "name": "KECHIZU.JJK.LOCAL",
+        "whencreated": 1739022969,
+        "highvalue": false,
+        "serviceprincipalnames": [],
+        "enabled": true,
+        "passwordnotreqd": false,
+        "unconstraineddelegation": false,
+        "sensitive": false,
+        "dontreqpreauth": false,
+        "pwdneverexpires": false,
+        "trustedtoauth": false
+      },
+      "Aces": [],
+      "AllowedToDelegate": [],
+      "MemberOf": [],
+      "AllowedToAct": [],
+      "LocalAdmins": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PSRemoteUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RemoteDesktopUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "DcomUsers": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrivilegedSessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "Sessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "RegistrySessions": {
+        "Collected": false,
+        "FailureReason": null,
+        "Results": []
+      },
+      "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515"
+    }
+  ],
+  "meta": {
+    "methods": 0,
+    "type": "computers",
+    "version": 5,
+    "count": 9
+  }
+}

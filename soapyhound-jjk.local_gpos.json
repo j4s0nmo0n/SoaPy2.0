@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "ObjectIdentifier": "95c754d9-a359-46f3-8ebb-ff60d09f9e9b",
+      "Name": "DEFAULT DOMAIN POLICY",
+      "ObjectType": "GPO",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "95c754d9-a359-46f3-8ebb-ff60d09f9e9b",
+        "name": "{31B2F340-016D-11D2-945F-00C04FB984F9}@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false,
+        "displayname": "Default Domain Policy",
+        "gpcpath": "\\\\jjk.local\\sysvol\\jjk.local\\Policies\\{31B2F340-016D-11D2-945F-00C04FB984F9}"
+      },
+      "Aces": []
+    },
+    {
+      "ObjectIdentifier": "d29701fc-7fcf-46ce-9fe3-1b0feec1b684",
+      "Name": "DEFAULT DOMAIN CONTROLLERS POLICY",
+      "ObjectType": "GPO",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN={6AC1786C-016F-11D2-945F-00C04FB984F9},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "d29701fc-7fcf-46ce-9fe3-1b0feec1b684",
+        "name": "{6AC1786C-016F-11D2-945F-00C04FB984F9}@JJK.LOCAL",
+        "whencreated": 1728418782,
+        "highvalue": false,
+        "displayname": "Default Domain Controllers Policy",
+        "gpcpath": "\\\\jjk.local\\sysvol\\jjk.local\\Policies\\{6AC1786C-016F-11D2-945F-00C04fB984F9}"
+      },
+      "Aces": []
+    },
+    {
+      "ObjectIdentifier": "e65e1020-0eac-43ea-8a03-378af1220fd7",
+      "Name": "NOUVEL OBJET DE STRATÉGIE DE GROUPE",
+      "ObjectType": "GPO",
+      "IsDeleted": false,
+      "IsACLProtected": false,
+      "Properties": {
+        "domain": "JJK.LOCAL",
+        "distinguishedname": "CN={39C4F1D7-C8B4-47BA-99D7-85092B6E0055},CN=POLICIES,CN=SYSTEM,DC=JJK,DC=LOCAL",
+        "domainsid": null,
+        "objectguid": "e65e1020-0eac-43ea-8a03-378af1220fd7",
+        "name": "{39C4F1D7-C8B4-47BA-99D7-85092B6E0055}@JJK.LOCAL",
+        "whencreated": 1737670362,
+        "highvalue": false,
+        "displayname": "Nouvel objet de stratégie de groupe",
+        "gpcpath": "\\\\jjk.local\\SysVol\\jjk.local\\Policies\\{39C4F1D7-C8B4-47BA-99D7-85092B6E0055}"
+      },
+      "Aces": []
+    }
+  ],
+  "meta": {
+    "methods": 0,
+    "type": "gpos",
+    "version": 5,
+    "count": 3
+  }
+}
