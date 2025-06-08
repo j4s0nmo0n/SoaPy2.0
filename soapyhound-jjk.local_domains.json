@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743",
+            "Name": "JJK.LOCAL",
+            "ObjectType": "Domain",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "name": "JJK.LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "distinguishedname": "DC=JJK,DC=LOCAL",
+                "highvalue": true,
+                "objectguid": "a541dc1c-bb31-49f8-80bf-9ce84709792a",
+                "whencreated": 1728418776,
+                "functionallevel": "7",
+                "sidhistory": []
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                }
+            ],
+            "Trusts": [],
+            "Links": [],
+            "ChildObjects": [],
+            "HasSIDHistory": []
+        }
+    ],
+    "meta": {
+        "methods": 0,
+        "type": "domains",
+        "version": 5,
+        "count": 1,
+        "timestamp": "2025-06-08T15:04:00.268578Z"
+    }
+}

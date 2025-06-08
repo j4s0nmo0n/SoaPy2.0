@@ -1,0 +1,1718 @@
+{
+    "data": [
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1002",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "domain": "JJK.LOCAL",
+                "distinguishedname": "CN=DC-CURSE,OU=DOMAIN CONTROLLERS,DC=JJK,DC=LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "samaccountname": "DC-CURSE$",
+                "dnshostname": "DC-CURSE.JJK.LOCAL",
+                "name": "DC-CURSE.JJK.LOCAL",
+                "description": null,
+                "displayName": null,
+                "title": null,
+                "homeDirectory": null,
+                "logonscript": null,
+                "userpassword": null,
+                "unixpassword": null,
+                "unicodepassword": null,
+                "sfupassword": null,
+                "mail": null,
+                "whencreated": 1728418831,
+                "lastlogon": 1749382059,
+                "lastlogontimestamp": 1749338402,
+                "pwdlastset": 1747487604,
+                "sidhistory": [],
+                "highvalue": false,
+                "serviceprincipalnames": [
+                    "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/dc-curse.jjk.local",
+                    "ldap/dc-curse.jjk.local/ForestDnsZones.jjk.local",
+                    "ldap/dc-curse.jjk.local/DomainDnsZones.jjk.local",
+                    "DNS/dc-curse.jjk.local",
+                    "GC/dc-curse.jjk.local/jjk.local",
+                    "RestrictedKrbHost/dc-curse.jjk.local",
+                    "RestrictedKrbHost/DC-CURSE",
+                    "RPC/a8ff5de7-c6be-47b0-848a-e1cb5b28a73c._msdcs.jjk.local",
+                    "HOST/DC-CURSE/JJK",
+                    "HOST/dc-curse.jjk.local/JJK",
+                    "HOST/DC-CURSE",
+                    "HOST/dc-curse.jjk.local",
+                    "HOST/dc-curse.jjk.local/jjk.local",
+                    "E3514235-4B06-11D1-AB04-00C04FC2DCD2/a8ff5de7-c6be-47b0-848a-e1cb5b28a73c/jjk.local",
+                    "ldap/DC-CURSE/JJK",
+                    "ldap/a8ff5de7-c6be-47b0-848a-e1cb5b28a73c._msdcs.jjk.local",
+                    "ldap/dc-curse.jjk.local/JJK",
+                    "ldap/DC-CURSE",
+                    "ldap/dc-curse.jjk.local",
+                    "ldap/dc-curse.jjk.local/jjk.local"
+                ],
+                "objectguid": "59d727fb-2a8b-4d4d-bafa-19e5c38f2f09",
+                "enabled": true,
+                "passwordnotreqd": false,
+                "unconstraineddelegation": true,
+                "sensitive": false,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "trustedtoauth": false,
+                "haslaps": false,
+                "operatingsystem": "Windows Server 2022 Datacenter",
+                "msds-allowedtodelegateto": []
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteAccountRestrictions",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1114",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                }
+            ],
+            "HasSIDHistory": [],
+            "Name": "DC-CURSE.JJK.LOCAL",
+            "ObjectType": "Computer",
+            "AllowedToDelegate": [],
+            "AllowedToAct": [],
+            "MemberOf": [],
+            "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-516",
+            "LocalAdmins": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PSRemoteUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RemoteDesktopUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "DcomUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PrivilegedSessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "Sessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RegistrySessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "SPNTargets": []
+        },
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1107",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "domain": "JJK.LOCAL",
+                "distinguishedname": "CN=WSUS,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "samaccountname": "WSUS$",
+                "dnshostname": "WSUS.JJK.LOCAL",
+                "name": "WSUS.JJK.LOCAL",
+                "description": null,
+                "displayName": null,
+                "title": null,
+                "homeDirectory": null,
+                "logonscript": null,
+                "userpassword": null,
+                "unixpassword": null,
+                "unicodepassword": null,
+                "sfupassword": null,
+                "mail": null,
+                "whencreated": 1728419925,
+                "lastlogon": 1749069349,
+                "lastlogontimestamp": 1749065626,
+                "pwdlastset": 1749065627,
+                "sidhistory": [],
+                "highvalue": false,
+                "serviceprincipalnames": [
+                    "WSMAN/wsus",
+                    "WSMAN/wsus.jjk.local",
+                    "RestrictedKrbHost/WSUS",
+                    "HOST/WSUS",
+                    "RestrictedKrbHost/wsus.jjk.local",
+                    "HOST/wsus.jjk.local"
+                ],
+                "objectguid": "91c5491b-aa62-4631-ab4b-f7a9981ee82b",
+                "enabled": true,
+                "passwordnotreqd": false,
+                "unconstraineddelegation": true,
+                "sensitive": false,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "trustedtoauth": false,
+                "haslaps": false,
+                "operatingsystem": "Windows Server 2019 Standard",
+                "msds-allowedtodelegateto": [],
+                "msds-allowedtoactonbehalfofotheridentity_sddl_b64": "AQAEgEAAAABQAAAAAAAAABQAAAAEACwAAQAAAAAAJAD/AQ8AAQUAAAAAAAUVAAAA18opMYapvb63TlKlaQQAAAECAAAAAAAFIAAAACACAAABAQAAAAAABRIAAAA="
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteAccountRestrictions",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1114",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                }
+            ],
+            "HasSIDHistory": [],
+            "Name": "WSUS.JJK.LOCAL",
+            "ObjectType": "Computer",
+            "AllowedToDelegate": [],
+            "AllowedToAct": [],
+            "MemberOf": [],
+            "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515",
+            "LocalAdmins": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PSRemoteUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RemoteDesktopUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "DcomUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PrivilegedSessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "Sessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RegistrySessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "SPNTargets": []
+        },
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1108",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "domain": "JJK.LOCAL",
+                "distinguishedname": "CN=KYOTO,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "samaccountname": "KYOTO$",
+                "dnshostname": "KYOTO.JJK.LOCAL",
+                "name": "KYOTO.JJK.LOCAL",
+                "description": null,
+                "displayName": null,
+                "title": null,
+                "homeDirectory": null,
+                "logonscript": null,
+                "userpassword": null,
+                "unixpassword": null,
+                "unicodepassword": null,
+                "sfupassword": null,
+                "mail": null,
+                "whencreated": 1729025547,
+                "lastlogon": 1749283037,
+                "lastlogontimestamp": 1748590187,
+                "pwdlastset": 1747684494,
+                "sidhistory": [],
+                "highvalue": false,
+                "serviceprincipalnames": [
+                    "RestrictedKrbHost/KYOTO",
+                    "HOST/KYOTO",
+                    "RestrictedKrbHost/kyoto.jjk.local",
+                    "HOST/kyoto.jjk.local"
+                ],
+                "objectguid": "7c258f44-23e2-4bd2-af98-c7755e1581e5",
+                "enabled": true,
+                "passwordnotreqd": false,
+                "unconstraineddelegation": false,
+                "sensitive": false,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "trustedtoauth": false,
+                "haslaps": false,
+                "operatingsystem": "Windows 11 Professionnel N",
+                "msds-allowedtodelegateto": [
+                    "cifs/kyoto.jjk.local",
+                    "cifs/KYOTO",
+                    "dns/wsus.jjk.local",
+                    "dns/WSUS",
+                    "cifs/wsus.jjk.local",
+                    "cifs/WSUS"
+                ]
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "WriteAccountRestrictions",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1114",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                }
+            ],
+            "HasSIDHistory": [],
+            "Name": "KYOTO.JJK.LOCAL",
+            "ObjectType": "Computer",
+            "AllowedToDelegate": [],
+            "AllowedToAct": [],
+            "MemberOf": [],
+            "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515",
+            "LocalAdmins": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PSRemoteUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RemoteDesktopUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "DcomUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PrivilegedSessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "Sessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RegistrySessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "SPNTargets": []
+        },
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1129",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "domain": "JJK.LOCAL",
+                "distinguishedname": "CN=RIKA,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "samaccountname": "rika$",
+                "name": "RIKA.JJK.LOCAL",
+                "description": null,
+                "displayName": null,
+                "title": null,
+                "homeDirectory": null,
+                "logonscript": null,
+                "userpassword": null,
+                "unixpassword": null,
+                "unicodepassword": null,
+                "sfupassword": null,
+                "mail": null,
+                "whencreated": 1739022598,
+                "lastlogon": 0,
+                "lastlogontimestamp": -1,
+                "pwdlastset": 0,
+                "sidhistory": [],
+                "highvalue": false,
+                "serviceprincipalnames": [],
+                "objectguid": "7943caf1-c778-43e8-b473-c0d3597640a6",
+                "dnshostname": null,
+                "enabled": true,
+                "passwordnotreqd": false,
+                "unconstraineddelegation": true,
+                "sensitive": false,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "trustedtoauth": false,
+                "haslaps": false,
+                "operatingsystem": null,
+                "msds-allowedtodelegateto": []
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteAccountRestrictions",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1114",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                }
+            ],
+            "HasSIDHistory": [],
+            "Name": "RIKA.JJK.LOCAL",
+            "ObjectType": "Computer",
+            "AllowedToDelegate": [],
+            "AllowedToAct": [],
+            "MemberOf": [],
+            "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515",
+            "LocalAdmins": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PSRemoteUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RemoteDesktopUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "DcomUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PrivilegedSessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "Sessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RegistrySessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "SPNTargets": []
+        },
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1130",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "domain": "JJK.LOCAL",
+                "distinguishedname": "CN=DAGON,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "samaccountname": "Dagon$",
+                "name": "DAGON.JJK.LOCAL",
+                "description": null,
+                "displayName": null,
+                "title": null,
+                "homeDirectory": null,
+                "logonscript": null,
+                "userpassword": null,
+                "unixpassword": null,
+                "unicodepassword": null,
+                "sfupassword": null,
+                "mail": null,
+                "whencreated": 1739022861,
+                "lastlogon": 0,
+                "lastlogontimestamp": -1,
+                "pwdlastset": 0,
+                "sidhistory": [],
+                "highvalue": false,
+                "serviceprincipalnames": [],
+                "objectguid": "a2ac3b2e-b339-478d-ad0b-2aafaf81accb",
+                "dnshostname": null,
+                "enabled": true,
+                "passwordnotreqd": false,
+                "unconstraineddelegation": false,
+                "sensitive": false,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "trustedtoauth": true,
+                "haslaps": false,
+                "operatingsystem": null,
+                "msds-allowedtodelegateto": [
+                    "http/wsus.jjk.local",
+                    "http/WSUS",
+                    "cifs/wsus.jjk.local",
+                    "cifs/WSUS"
+                ]
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "WriteAccountRestrictions",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1114",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                }
+            ],
+            "HasSIDHistory": [],
+            "Name": "DAGON.JJK.LOCAL",
+            "ObjectType": "Computer",
+            "AllowedToDelegate": [],
+            "AllowedToAct": [],
+            "MemberOf": [],
+            "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515",
+            "LocalAdmins": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PSRemoteUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RemoteDesktopUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "DcomUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PrivilegedSessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "Sessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RegistrySessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "SPNTargets": []
+        },
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1131",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "domain": "JJK.LOCAL",
+                "distinguishedname": "CN=CHOSO,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "samaccountname": "Choso$",
+                "name": "CHOSO.JJK.LOCAL",
+                "description": null,
+                "displayName": null,
+                "title": null,
+                "homeDirectory": null,
+                "logonscript": null,
+                "userpassword": null,
+                "unixpassword": null,
+                "unicodepassword": null,
+                "sfupassword": null,
+                "mail": null,
+                "whencreated": 1739022925,
+                "lastlogon": 0,
+                "lastlogontimestamp": -1,
+                "pwdlastset": 0,
+                "sidhistory": [],
+                "highvalue": false,
+                "serviceprincipalnames": [],
+                "objectguid": "473f8b90-d2d0-43c0-b7df-fe5fb9b55b6f",
+                "dnshostname": null,
+                "enabled": true,
+                "passwordnotreqd": false,
+                "unconstraineddelegation": false,
+                "sensitive": false,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "trustedtoauth": false,
+                "haslaps": false,
+                "operatingsystem": null,
+                "msds-allowedtodelegateto": [
+                    "http/dc-curse.jjk.local/jjk.local",
+                    "http/dc-curse.jjk.local",
+                    "http/DC-CURSE",
+                    "http/dc-curse.jjk.local/JJK",
+                    "http/DC-CURSE/JJK"
+                ],
+                "msds-allowedtoactonbehalfofotheridentity_sddl_b64": "AQAEgEAAAAAAAAAAAAAAABQAAAAEACwAAQAAAAAAJAD/AQ8AAQUAAAAAAAUVAAAA18opMYapvb63TlKlaQQAAAECAAAAAAAFIAAAACACAAA="
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "WriteAccountRestrictions",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1114",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                }
+            ],
+            "HasSIDHistory": [],
+            "Name": "CHOSO.JJK.LOCAL",
+            "ObjectType": "Computer",
+            "AllowedToDelegate": [],
+            "AllowedToAct": [],
+            "MemberOf": [],
+            "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515",
+            "LocalAdmins": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PSRemoteUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RemoteDesktopUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "DcomUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PrivilegedSessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "Sessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RegistrySessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "SPNTargets": []
+        },
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1132",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "domain": "JJK.LOCAL",
+                "distinguishedname": "CN=ESO,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "samaccountname": "Eso$",
+                "name": "ESO.JJK.LOCAL",
+                "description": null,
+                "displayName": null,
+                "title": null,
+                "homeDirectory": null,
+                "logonscript": null,
+                "userpassword": null,
+                "unixpassword": null,
+                "unicodepassword": null,
+                "sfupassword": null,
+                "mail": null,
+                "whencreated": 1739022940,
+                "lastlogon": 0,
+                "lastlogontimestamp": -1,
+                "pwdlastset": 0,
+                "sidhistory": [],
+                "highvalue": false,
+                "serviceprincipalnames": [],
+                "objectguid": "7f971614-7651-41ac-8e4d-2c844c65bc16",
+                "dnshostname": null,
+                "enabled": true,
+                "passwordnotreqd": false,
+                "unconstraineddelegation": false,
+                "sensitive": false,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "trustedtoauth": false,
+                "haslaps": false,
+                "operatingsystem": null,
+                "msds-allowedtodelegateto": []
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "WriteAccountRestrictions",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1114",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                }
+            ],
+            "HasSIDHistory": [],
+            "Name": "ESO.JJK.LOCAL",
+            "ObjectType": "Computer",
+            "AllowedToDelegate": [],
+            "AllowedToAct": [],
+            "MemberOf": [],
+            "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515",
+            "LocalAdmins": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PSRemoteUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RemoteDesktopUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "DcomUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PrivilegedSessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "Sessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RegistrySessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "SPNTargets": []
+        },
+        {
+            "ObjectIdentifier": "S-1-5-21-824822487-3200100742-2773634743-1133",
+            "IsDeleted": false,
+            "IsACLProtected": false,
+            "Properties": {
+                "domain": "JJK.LOCAL",
+                "distinguishedname": "CN=KECHIZU,CN=COMPUTERS,DC=JJK,DC=LOCAL",
+                "domainsid": "S-1-5-21-824822487-3200100742-2773634743",
+                "samaccountname": "Kechizu$",
+                "name": "KECHIZU.JJK.LOCAL",
+                "description": null,
+                "displayName": null,
+                "title": null,
+                "homeDirectory": null,
+                "logonscript": null,
+                "userpassword": null,
+                "unixpassword": null,
+                "unicodepassword": null,
+                "sfupassword": null,
+                "mail": null,
+                "whencreated": 1739022969,
+                "lastlogon": 0,
+                "lastlogontimestamp": -1,
+                "pwdlastset": 0,
+                "sidhistory": [],
+                "highvalue": false,
+                "serviceprincipalnames": [],
+                "objectguid": "46a8f8d0-141b-48f4-af2e-0a15d13d33a5",
+                "dnshostname": null,
+                "enabled": true,
+                "passwordnotreqd": false,
+                "unconstraineddelegation": false,
+                "sensitive": false,
+                "dontreqpreauth": false,
+                "pwdneverexpires": false,
+                "trustedtoauth": false,
+                "haslaps": false,
+                "operatingsystem": null,
+                "msds-allowedtodelegateto": []
+            },
+            "Aces": [
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "Owns",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "WriteAccountRestrictions",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1105",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-512",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-548",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": false
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-526",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-527",
+                    "PrincipalType": "User",
+                    "RightName": "AddKeyCredentialLink",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-1114",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-21-824822487-3200100742-2773634743-519",
+                    "PrincipalType": "User",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "AllExtendedRights",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "GenericWrite",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteDacl",
+                    "IsInherited": true
+                },
+                {
+                    "PrincipalSID": "S-1-5-32-544",
+                    "PrincipalType": "Group",
+                    "RightName": "WriteOwner",
+                    "IsInherited": true
+                }
+            ],
+            "HasSIDHistory": [],
+            "Name": "KECHIZU.JJK.LOCAL",
+            "ObjectType": "Computer",
+            "AllowedToDelegate": [],
+            "AllowedToAct": [],
+            "MemberOf": [],
+            "PrimaryGroupSID": "S-1-5-21-824822487-3200100742-2773634743-515",
+            "LocalAdmins": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PSRemoteUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RemoteDesktopUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "DcomUsers": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "PrivilegedSessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "Sessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "RegistrySessions": {
+                "Collected": false,
+                "FailureReason": null,
+                "Results": []
+            },
+            "SPNTargets": []
+        }
+    ],
+    "meta": {
+        "methods": 0,
+        "type": "computers",
+        "version": 5,
+        "count": 8,
+        "timestamp": "2025-06-08T15:04:00.257943Z"
+    }
+}
